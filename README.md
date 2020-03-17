@@ -1,1 +1,1 @@
-Projeto referente à Constanzo Contabilidade.
+Conversor de NFSe para o modelo de São Paulo/SP.
