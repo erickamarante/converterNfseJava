@@ -1,0 +1,64 @@
+<NFe>
+  <Prefeitura>Bauru</Prefeitura>
+  <InscricaoPrestador>577280</InscricaoPrestador>
+  <IEPrestador></IEPrestador>
+  <CPFCNPJPrestador>
+    <CNPJ>31002663000179</CNPJ>
+  </CPFCNPJPrestador>
+  <ChaveNFe>
+    <NumeroNFe>1049</NumeroNFe>
+    <SerieNFe>1</SerieNFe>
+    <CodigoVerificacao>4B19233D4A94BD9EEA4343F3EEA1D4BD</CodigoVerificacao>
+    <DataEmissaoNFe>2020-01-13</DataEmissaoNFe>
+  </ChaveNFe>
+  <RazaoSocialPrestador>F D M DOS SANTOS LOPES E AVELAR</RazaoSocialPrestador>
+  <EnderecoPrestador>
+    <Logradouro>RUA ALFREDO FONTAO</Logradouro>
+    <NumeroEndereco>2-73</NumeroEndereco>
+    <ComplementoEndereco></ComplementoEndereco>
+    <Bairro>JD. PAULISTA</Bairro>
+    <Cidade>BAURU</Cidade>
+    <UF>SP</UF>
+    <CEP>17017240</CEP>
+  </EnderecoPrestador>
+  <TelefonePrestador>1438781212</TelefonePrestador>
+  <EmailPrestador>ilton@esolucao.net</EmailPrestador>
+  <StatusNFe>Ativa</StatusNFe>
+  <TributacaoNFe>Tributada no Prestador</TributacaoNFe>
+  <OpcaoSimples>NÃO</OpcaoSimples>
+  <ValorServicos>656,50</ValorServicos>
+  <ValorBase>656,50</ValorBase>
+  <CodigoServico>412</CodigoServico>
+  <AliquotaServicos>2,00</AliquotaServicos>
+  <ValorINSS>0,00</ValorINSS>
+  <ValorIR>0,00</ValorIR>
+  <ValorPIS>0,00</ValorPIS>
+  <ValorCOFINS>0,00</ValorCOFINS>
+  <ValorCSLL>0,00</ValorCSLL>
+  <ValorISS>13,13</ValorISS>
+  <ValorISSFora></ValorISSFora>
+  <ISSRetido>NÃO</ISSRetido>
+  <InscricaoTomador></InscricaoTomador>
+  <CPFCNPJTomador>
+    <CNPJ>41473116872</CNPJ>
+  </CPFCNPJTomador>
+  <IETomador></IETomador>
+  <RazaoSocialTomador>ANTONIO RENATO LOLO</RazaoSocialTomador>
+  <EnderecoTomador>
+    <Logradouro>RUA ALBERTO TORRES</Logradouro>
+    <NumeroEndereco>6</NumeroEndereco>
+    <ComplementoEndereco></ComplementoEndereco>
+    <Bairro>BELA VISTA</Bairro>
+    <Cidade>OSASCO</Cidade>
+    <UF>SP</UF>
+    <CEP>06060220</CEP>
+  </EnderecoTomador>
+  <LocalServico>
+    <LocalServicoEstado></LocalServicoEstado>
+    <LocalServicoCidade></LocalServicoCidade>
+  </LocalServico>
+  <TelefoneTomador>11974408910</TelefoneTomador>
+  <EmailTomador>lolo.renato@gmail.com</EmailTomador>
+  <Discriminacao>SERVIÇOS ODONTOLÓGICOS</Discriminacao>
+  <ServicoExportacao>NÃO</ServicoExportacao>
+</NFe>

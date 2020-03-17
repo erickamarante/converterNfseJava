@@ -1,0 +1,64 @@
+<NFe>
+  <Prefeitura>Bauru</Prefeitura>
+  <InscricaoPrestador>577280</InscricaoPrestador>
+  <IEPrestador></IEPrestador>
+  <CPFCNPJPrestador>
+    <CNPJ>31002663000179</CNPJ>
+  </CPFCNPJPrestador>
+  <ChaveNFe>
+    <NumeroNFe>1032</NumeroNFe>
+    <SerieNFe>1</SerieNFe>
+    <CodigoVerificacao>9E89D6F2E7290A26299C1A9EDA5E6EE6</CodigoVerificacao>
+    <DataEmissaoNFe>2020-01-09</DataEmissaoNFe>
+  </ChaveNFe>
+  <RazaoSocialPrestador>F D M DOS SANTOS LOPES E AVELAR</RazaoSocialPrestador>
+  <EnderecoPrestador>
+    <Logradouro>RUA ALFREDO FONTAO</Logradouro>
+    <NumeroEndereco>2-73</NumeroEndereco>
+    <ComplementoEndereco></ComplementoEndereco>
+    <Bairro>JD. PAULISTA</Bairro>
+    <Cidade>BAURU</Cidade>
+    <UF>SP</UF>
+    <CEP>17017240</CEP>
+  </EnderecoPrestador>
+  <TelefonePrestador>1438781212</TelefonePrestador>
+  <EmailPrestador>ilton@esolucao.net</EmailPrestador>
+  <StatusNFe>Ativa</StatusNFe>
+  <TributacaoNFe>Tributada no Prestador</TributacaoNFe>
+  <OpcaoSimples>NÃO</OpcaoSimples>
+  <ValorServicos>311,67</ValorServicos>
+  <ValorBase>311,67</ValorBase>
+  <CodigoServico>412</CodigoServico>
+  <AliquotaServicos>2,00</AliquotaServicos>
+  <ValorINSS>0,00</ValorINSS>
+  <ValorIR>0,00</ValorIR>
+  <ValorPIS>0,00</ValorPIS>
+  <ValorCOFINS>0,00</ValorCOFINS>
+  <ValorCSLL>0,00</ValorCSLL>
+  <ValorISS>6,23</ValorISS>
+  <ValorISSFora></ValorISSFora>
+  <ISSRetido>NÃO</ISSRetido>
+  <InscricaoTomador></InscricaoTomador>
+  <CPFCNPJTomador>
+    <CNPJ>30191968846</CNPJ>
+  </CPFCNPJTomador>
+  <IETomador></IETomador>
+  <RazaoSocialTomador>CRISTIAN MANOEL PEREIRA</RazaoSocialTomador>
+  <EnderecoTomador>
+    <Logradouro>RUA PEDRO PAULO CHAVES</Logradouro>
+    <NumeroEndereco>74</NumeroEndereco>
+    <ComplementoEndereco>QD 06</ComplementoEndereco>
+    <Bairro>TANGARÁS</Bairro>
+    <Cidade>BAURU</Cidade>
+    <UF>SP</UF>
+    <CEP>17035240</CEP>
+  </EnderecoTomador>
+  <LocalServico>
+    <LocalServicoEstado></LocalServicoEstado>
+    <LocalServicoCidade></LocalServicoCidade>
+  </LocalServico>
+  <TelefoneTomador></TelefoneTomador>
+  <EmailTomador></EmailTomador>
+  <Discriminacao>SERVIÇOS ODONTOLÓGICOS</Discriminacao>
+  <ServicoExportacao>NÃO</ServicoExportacao>
+</NFe>

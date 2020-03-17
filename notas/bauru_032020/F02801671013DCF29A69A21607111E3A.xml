@@ -1,0 +1,64 @@
+<NFe>
+  <Prefeitura>Bauru</Prefeitura>
+  <InscricaoPrestador>577280</InscricaoPrestador>
+  <IEPrestador></IEPrestador>
+  <CPFCNPJPrestador>
+    <CNPJ>31002663000179</CNPJ>
+  </CPFCNPJPrestador>
+  <ChaveNFe>
+    <NumeroNFe>1094</NumeroNFe>
+    <SerieNFe>1</SerieNFe>
+    <CodigoVerificacao>F02801671013DCF29A69A21607111E3A</CodigoVerificacao>
+    <DataEmissaoNFe>2020-01-27</DataEmissaoNFe>
+  </ChaveNFe>
+  <RazaoSocialPrestador>F D M DOS SANTOS LOPES E AVELAR</RazaoSocialPrestador>
+  <EnderecoPrestador>
+    <Logradouro>RUA ALFREDO FONTAO</Logradouro>
+    <NumeroEndereco>2-73</NumeroEndereco>
+    <ComplementoEndereco></ComplementoEndereco>
+    <Bairro>JD. PAULISTA</Bairro>
+    <Cidade>BAURU</Cidade>
+    <UF>SP</UF>
+    <CEP>17017240</CEP>
+  </EnderecoPrestador>
+  <TelefonePrestador>1438781212</TelefonePrestador>
+  <EmailPrestador>ilton@esolucao.net</EmailPrestador>
+  <StatusNFe>Ativa</StatusNFe>
+  <TributacaoNFe>Tributada no Prestador</TributacaoNFe>
+  <OpcaoSimples>NÃO</OpcaoSimples>
+  <ValorServicos>100,00</ValorServicos>
+  <ValorBase>100,00</ValorBase>
+  <CodigoServico>412</CodigoServico>
+  <AliquotaServicos>2,00</AliquotaServicos>
+  <ValorINSS>0,00</ValorINSS>
+  <ValorIR>0,00</ValorIR>
+  <ValorPIS>0,00</ValorPIS>
+  <ValorCOFINS>0,00</ValorCOFINS>
+  <ValorCSLL>0,00</ValorCSLL>
+  <ValorISS>2,00</ValorISS>
+  <ValorISSFora></ValorISSFora>
+  <ISSRetido>NÃO</ISSRetido>
+  <InscricaoTomador></InscricaoTomador>
+  <CPFCNPJTomador>
+    <CNPJ>13101715806</CNPJ>
+  </CPFCNPJTomador>
+  <IETomador></IETomador>
+  <RazaoSocialTomador>VALDINEI DINIZ</RazaoSocialTomador>
+  <EnderecoTomador>
+    <Logradouro>RUA MAJOR ANTÔNIO FIUZA FLORÊNCIO DO AMARAL</Logradouro>
+    <NumeroEndereco>81</NumeroEndereco>
+    <ComplementoEndereco></ComplementoEndereco>
+    <Bairro>VILA SÃO JUDAS TADEU</Bairro>
+    <Cidade>LENÇÓIS PAULISTA</Cidade>
+    <UF>SP</UF>
+    <CEP>18682630</CEP>
+  </EnderecoTomador>
+  <LocalServico>
+    <LocalServicoEstado></LocalServicoEstado>
+    <LocalServicoCidade></LocalServicoCidade>
+  </LocalServico>
+  <TelefoneTomador>14996830972</TelefoneTomador>
+  <EmailTomador></EmailTomador>
+  <Discriminacao>SERVIÇOS ODONTOLÓGICOS</Discriminacao>
+  <ServicoExportacao>NÃO</ServicoExportacao>
+</NFe>

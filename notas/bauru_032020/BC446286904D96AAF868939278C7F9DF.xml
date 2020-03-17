@@ -1,0 +1,64 @@
+<NFe>
+  <Prefeitura>Bauru</Prefeitura>
+  <InscricaoPrestador>577280</InscricaoPrestador>
+  <IEPrestador></IEPrestador>
+  <CPFCNPJPrestador>
+    <CNPJ>31002663000179</CNPJ>
+  </CPFCNPJPrestador>
+  <ChaveNFe>
+    <NumeroNFe>1031</NumeroNFe>
+    <SerieNFe>1</SerieNFe>
+    <CodigoVerificacao>BC446286904D96AAF868939278C7F9DF</CodigoVerificacao>
+    <DataEmissaoNFe>2020-01-09</DataEmissaoNFe>
+  </ChaveNFe>
+  <RazaoSocialPrestador>F D M DOS SANTOS LOPES E AVELAR</RazaoSocialPrestador>
+  <EnderecoPrestador>
+    <Logradouro>RUA ALFREDO FONTAO</Logradouro>
+    <NumeroEndereco>2-73</NumeroEndereco>
+    <ComplementoEndereco></ComplementoEndereco>
+    <Bairro>JD. PAULISTA</Bairro>
+    <Cidade>BAURU</Cidade>
+    <UF>SP</UF>
+    <CEP>17017240</CEP>
+  </EnderecoPrestador>
+  <TelefonePrestador>1438781212</TelefonePrestador>
+  <EmailPrestador>ilton@esolucao.net</EmailPrestador>
+  <StatusNFe>Ativa</StatusNFe>
+  <TributacaoNFe>Tributada no Prestador</TributacaoNFe>
+  <OpcaoSimples>NÃO</OpcaoSimples>
+  <ValorServicos>358,68</ValorServicos>
+  <ValorBase>358,68</ValorBase>
+  <CodigoServico>412</CodigoServico>
+  <AliquotaServicos>2,00</AliquotaServicos>
+  <ValorINSS>0,00</ValorINSS>
+  <ValorIR>0,00</ValorIR>
+  <ValorPIS>0,00</ValorPIS>
+  <ValorCOFINS>0,00</ValorCOFINS>
+  <ValorCSLL>0,00</ValorCSLL>
+  <ValorISS>7,17</ValorISS>
+  <ValorISSFora></ValorISSFora>
+  <ISSRetido>NÃO</ISSRetido>
+  <InscricaoTomador></InscricaoTomador>
+  <CPFCNPJTomador>
+    <CNPJ>36865987870</CNPJ>
+  </CPFCNPJTomador>
+  <IETomador></IETomador>
+  <RazaoSocialTomador>NATALIA REGINA MARTINS TONETTI</RazaoSocialTomador>
+  <EnderecoTomador>
+    <Logradouro>RUA MARA LUCIA VIEIRA</Logradouro>
+    <NumeroEndereco>S/N</NumeroEndereco>
+    <ComplementoEndereco></ComplementoEndereco>
+    <Bairro>VILA PELEGRINA</Bairro>
+    <Cidade>BAURU</Cidade>
+    <UF>SP</UF>
+    <CEP>17052250</CEP>
+  </EnderecoTomador>
+  <LocalServico>
+    <LocalServicoEstado></LocalServicoEstado>
+    <LocalServicoCidade></LocalServicoCidade>
+  </LocalServico>
+  <TelefoneTomador></TelefoneTomador>
+  <EmailTomador></EmailTomador>
+  <Discriminacao>SERVIÇOS ODONTOLÓGICOS</Discriminacao>
+  <ServicoExportacao>NÃO</ServicoExportacao>
+</NFe>

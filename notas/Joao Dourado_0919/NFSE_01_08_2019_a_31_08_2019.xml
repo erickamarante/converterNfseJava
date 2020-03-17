@@ -1,0 +1,1669 @@
+<ConsultarNfseFaixaResposta xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<ListaNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000782_AAGNCSIR-IZAHCG">
+					<Numero>782</Numero>
+					<CodigoVerificacao>AAGNCSIR-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-06T09:28:41</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>80.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>2.80</ValorIss>
+						<ValorLiquidoNfse>80.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-06T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>80.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>13.56</ValTotTributos>
+									<ValorIss>2.80</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>Tratamento Odontológico .</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>06986662599</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>LUIZ GUILERME DOURADO DOS SANTOS</RazaoSocial>
+								<Endereco>
+									<Endereco>RUA MANOEL QUERINO</Endereco>
+									<Numero>38</Numero>
+									<Complemento />
+									<Bairro>ANGICO</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74999309560</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000783_AAGVCSIS-IZAHCG">
+					<Numero>783</Numero>
+					<CodigoVerificacao>AAGVCSIS-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-06T09:31:31</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>80.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>2.80</ValorIss>
+						<ValorLiquidoNfse>80.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-06T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>80.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>13.56</ValTotTributos>
+									<ValorIss>2.80</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>Tratamento Odontológico .</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>07742248514</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>ALANA ALMEIDA FIGUEREDO</RazaoSocial>
+								<Endereco>
+									<Endereco>CALDEIRÃO DO JACÓ</Endereco>
+									<Numero />
+									<Complemento>CASA</Complemento>
+									<Bairro>POVOADO</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74999992454</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000784_AAGTCSIT-IZAHCG">
+					<Numero>784</Numero>
+					<CodigoVerificacao>AAGTCSIT-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-06T09:34:46</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>80.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>2.80</ValorIss>
+						<ValorLiquidoNfse>80.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-06T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>80.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>13.56</ValTotTributos>
+									<ValorIss>2.80</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>Tratamento odontológico.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>01460661117</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>ALEXANDRE CORREIA DE ALMEIDA FILHO</RazaoSocial>
+								<Endereco>
+									<Endereco>RUA DAS PALMEIRA N° 90</Endereco>
+									<Numero />
+									<Complemento />
+									<Bairro>CENTRO</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74999124339</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000785_AAGQCSIU-IZAHCG">
+					<Numero>785</Numero>
+					<CodigoVerificacao>AAGQCSIU-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-06T09:38:10</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>80.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>2.80</ValorIss>
+						<ValorLiquidoNfse>80.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-06T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>80.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>13.56</ValTotTributos>
+									<ValorIss>2.80</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>Tratamento Odontológico.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>05375725541</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>VINICIUS RAIAN PEREIRA MIRANDA</RazaoSocial>
+								<Endereco>
+									<Endereco>RUA VITAL SILVA DOURADO</Endereco>
+									<Numero>51</Numero>
+									<Complemento>CASA</Complemento>
+									<Bairro>CENTRO</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74999382977</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000786_AAGOCSIV-IZAHCG">
+					<Numero>786</Numero>
+					<CodigoVerificacao>AAGOCSIV-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-06T10:20:41</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>120.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>4.20</ValorIss>
+						<ValorLiquidoNfse>120.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-06T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>120.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>20.34</ValTotTributos>
+									<ValorIss>4.20</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>Tratamento odontológico.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>05293488538</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>MEIRILANE PASSOS BARRETO</RazaoSocial>
+								<Endereco>
+									<Endereco>RUA HILDETE SILVA DOURADO</Endereco>
+									<Numero>36</Numero>
+									<Complemento>CASA</Complemento>
+									<Bairro>CENTRO</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74998182788</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000787_AAGWCSIW-IZAHCG">
+					<Numero>787</Numero>
+					<CodigoVerificacao>AAGWCSIW-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-27T10:40:36</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>160.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>5.60</ValorIss>
+						<ValorLiquidoNfse>160.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-27T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>160.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>27.12</ValTotTributos>
+									<ValorIss>5.60</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>TRATAMENTO ODONTOLÓGICO.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>44925591835</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>Diego Santos De Jesus</RazaoSocial>
+								<Endereco>
+									<Endereco>Rua Bela Vista</Endereco>
+									<Numero>246</Numero>
+									<Complemento>Casa</Complemento>
+									<Bairro>ANA OLIVEIRA</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74998110701</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000788_AAGUCSIX-IZAHCG">
+					<Numero>788</Numero>
+					<CodigoVerificacao>AAGUCSIX-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-27T10:55:20</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>20.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>0.70</ValorIss>
+						<ValorLiquidoNfse>20.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-27T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>20.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>3.39</ValTotTributos>
+									<ValorIss>0.70</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>TRATAMENTO ODONTOLÓGICO.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>05233435586</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>Ioneide De Oliveira Santos</RazaoSocial>
+								<Endereco>
+									<Endereco>Rua Adolfo Nunes Oliveira Santos</Endereco>
+									<Numero>380</Numero>
+									<Complemento>casa</Complemento>
+									<Bairro>Adolfo Nunes</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74999358094</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000789_AAGSCSIY-IZAHCG">
+					<Numero>789</Numero>
+					<CodigoVerificacao>AAGSCSIY-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-27T11:04:00</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>90.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>3.15</ValorIss>
+						<ValorLiquidoNfse>90.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-27T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>90.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>15.26</ValTotTributos>
+									<ValorIss>3.15</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>TRATAMENTO ODONTOLÓGICO.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>51951274504</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>Eládio Cardoso Dourado</RazaoSocial>
+								<Endereco>
+									<Endereco>Praca Do Comercio</Endereco>
+									<Numero />
+									<Complemento>casa</Complemento>
+									<Bairro>Belo Campo</Bairro>
+									<CodigoMunicipio>2901155</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44910000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74999765908</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000790_AAGQCSIZ-IZAHCG">
+					<Numero>790</Numero>
+					<CodigoVerificacao>AAGQCSIZ-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-27T11:38:23</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>80.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>2.80</ValorIss>
+						<ValorLiquidoNfse>80.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-27T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>80.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>13.56</ValTotTributos>
+									<ValorIss>2.80</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>TRATAMENTO ODONTOLÓGICO.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>01460661117</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>ALEXANDRE CORREIA DE ALMEIDA FILHO</RazaoSocial>
+								<Endereco>
+									<Endereco>RUA DAS PALMEIRA N° 90</Endereco>
+									<Numero />
+									<Complemento />
+									<Bairro>CENTRO</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74999124339</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000791_AAGOCSKI-IZAHCG">
+					<Numero>791</Numero>
+					<CodigoVerificacao>AAGOCSKI-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-27T11:39:56</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>120.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>4.20</ValorIss>
+						<ValorLiquidoNfse>120.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-27T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>120.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>20.34</ValTotTributos>
+									<ValorIss>4.20</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>TRATAMENTO ODONTOLÓGICO.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>05293488538</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>MEIRILANE PASSOS BARRETO</RazaoSocial>
+								<Endereco>
+									<Endereco>RUA HILDETE SILVA DOURADO</Endereco>
+									<Numero>36</Numero>
+									<Complemento>CASA</Complemento>
+									<Bairro>CENTRO</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74998182788</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000792_AAGWCSKJ-IZAHCG">
+					<Numero>792</Numero>
+					<CodigoVerificacao>AAGWCSKJ-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-27T11:42:01</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes>Procedimentos Nalanda Dos Santos Silva</OutrasInformacoes>
+					<ValoresNfse>
+						<BaseCalculo>510.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>17.85</ValorIss>
+						<ValorLiquidoNfse>510.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-27T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>510.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>86.45</ValTotTributos>
+									<ValorIss>17.85</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>TRATAMENTO ODONTOLÓGICO.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>00840712570</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>ANDERSON DOS SANTOS SILVA</RazaoSocial>
+								<Endereco>
+									<Endereco>RUA ALÍPIO NUNES</Endereco>
+									<Numero>135</Numero>
+									<Complemento />
+									<Bairro>CENTRO</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74999640617</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000793_AAGUCSKK-IZAHCG">
+					<Numero>793</Numero>
+					<CodigoVerificacao>AAGUCSKK-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-27T11:43:05</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>80.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>2.80</ValorIss>
+						<ValorLiquidoNfse>80.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-27T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>80.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>13.56</ValTotTributos>
+									<ValorIss>2.80</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>TRATAMENTO ODONTOLÓGICO.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>05375725541</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>VINICIUS RAIAN PEREIRA MIRANDA</RazaoSocial>
+								<Endereco>
+									<Endereco>RUA VITAL SILVA DOURADO</Endereco>
+									<Numero>51</Numero>
+									<Complemento>CASA</Complemento>
+									<Bairro>CENTRO</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74999382977</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000794_AAGSCSKL-IZAHCG">
+					<Numero>794</Numero>
+					<CodigoVerificacao>AAGSCSKL-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-27T16:40:58</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>20.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>0.70</ValorIss>
+						<ValorLiquidoNfse>20.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-27T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>20.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>3.39</ValTotTributos>
+									<ValorIss>0.70</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>TRATAMENTO ODONTOLÓGICO.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>05100197579</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>Thalles Almeida Maia</RazaoSocial>
+								<Endereco>
+									<Endereco>Rua Edite cardoso</Endereco>
+									<Numero>116</Numero>
+									<Complemento>casa</Complemento>
+									<Bairro>cen</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74999897753</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000795_AAGPCSKM-IZAHCG">
+					<Numero>795</Numero>
+					<CodigoVerificacao>AAGPCSKM-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-31T09:29:25</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>80.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>2.80</ValorIss>
+						<ValorLiquidoNfse>80.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-31T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>80.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>13.56</ValTotTributos>
+									<ValorIss>2.80</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>TRATAMENTO ODONTOLÓGICO.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>05375725541</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>VINICIUS RAIAN PEREIRA MIRANDA</RazaoSocial>
+								<Endereco>
+									<Endereco>RUA VITAL SILVA DOURADO</Endereco>
+									<Numero>51</Numero>
+									<Complemento>CASA</Complemento>
+									<Bairro>CENTRO</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74999382977</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000796_AAGNCSKN-IZAHCG">
+					<Numero>796</Numero>
+					<CodigoVerificacao>AAGNCSKN-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-31T09:31:35</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>2340.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>81.90</ValorIss>
+						<ValorLiquidoNfse>2340.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-31T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>2340.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>396.63</ValTotTributos>
+									<ValorIss>81.90</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>TRATAMENTO ODONTOLÓGICO.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>00899898483</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>JOSE LUCIVALDO DA SILVA SANTOS</RazaoSocial>
+								<Endereco>
+									<Endereco>RUA ANTONIO CARLOS DOURADO</Endereco>
+									<Numero />
+									<Complemento>POV. CONQUISTA</Complemento>
+									<Bairro>GRAÇA</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone />
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<CompNfse>
+			<Nfse versao="2.01">
+				<InfNfse Id="NFSE_Declaracao_000797_AAGVCSKO-IZAHCG">
+					<Numero>797</Numero>
+					<CodigoVerificacao>AAGVCSKO-IZAHCG</CodigoVerificacao>
+					<DataEmissao>2019-08-31T09:32:57</DataEmissao>
+					<NfseSubstituida>0</NfseSubstituida>
+					<OutrasInformacoes />
+					<ValoresNfse>
+						<BaseCalculo>100.00</BaseCalculo>
+						<Aliquota>3.5000000000</Aliquota>
+						<ValorIss>3.50</ValorIss>
+						<ValorLiquidoNfse>100.00</ValorLiquidoNfse>
+					</ValoresNfse>
+					<ValorCredito>0.00</ValorCredito>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>13200792000432</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>54000144</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>ZN ODONTOLOGIA LTDA</RazaoSocial>
+						<NomeFantasia>ORAL FÁCIL</NomeFantasia>
+						<Endereco>
+							<Endereco>Pça Manoel M Franca</Endereco>
+							<Numero>12</Numero>
+							<Complemento>1º ANDAR</Complemento>
+							<Bairro>Centro</Bairro>
+							<CodigoMunicipio>2918357</CodigoMunicipio>
+							<Uf>BA</Uf>
+							<Cep>44920000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>74999590209</Telefone>
+							<Email>zn.odontologia@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<DeclaracaoPrestacaoServico>
+						<InfDeclaracaoPrestacaoServico Id="Declaracao_13200792000432">
+							<Competencia>2019-08-31T00:00:00</Competencia>
+							<Servico>
+								<Valores>
+									<ValorServicos>100.00</ValorServicos>
+									<ValorDeducoes>0.00</ValorDeducoes>
+									<ValorPis>0.00</ValorPis>
+									<ValorCofins>0.00</ValorCofins>
+									<ValorInss>0.00</ValorInss>
+									<ValorIr>0.00</ValorIr>
+									<ValorCsll>0.00</ValorCsll>
+									<OutrasRetencoes>0.00</OutrasRetencoes>
+									<ValTotTributos>16.95</ValTotTributos>
+									<ValorIss>3.50</ValorIss>
+									<Aliquota>3.5000000000</Aliquota>
+									<DescontoIncondicionado>0.00</DescontoIncondicionado>
+									<DescontoCondicionado>0.00</DescontoCondicionado>
+								</Valores>
+								<IssRetido>2</IssRetido>
+								<ResponsavelRetencao>1</ResponsavelRetencao>
+								<ItemListaServico>04.12</ItemListaServico>
+								<CodigoCnae>8630504</CodigoCnae>
+								<Discriminacao>TRATAMENTO ODONTOLÓGICO.</Discriminacao>
+								<CodigoMunicipio>2918357</CodigoMunicipio>
+								<CodigoPais>1058</CodigoPais>
+								<ExigibilidadeISS>1</ExigibilidadeISS>
+								<MunicipioIncidencia>2918357</MunicipioIncidencia>
+							</Servico>
+							<Prestador>
+								<CpfCnpj>
+									<Cnpj>13200792000432</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal>54000144</InscricaoMunicipal>
+							</Prestador>
+							<Tomador>
+								<IdentificacaoTomador>
+									<CpfCnpj>
+										<Cpf>02533784435</Cpf>
+									</CpfCnpj>
+									<InscricaoMunicipal />
+								</IdentificacaoTomador>
+								<RazaoSocial>EDNEIA CAMPOS DE ARAUJO GOES</RazaoSocial>
+								<Endereco>
+									<Endereco>AV DIVINO ESPIRITO SANTO</Endereco>
+									<Numero>195</Numero>
+									<Complemento>CASA</Complemento>
+									<Bairro>CALDEIRAO DO JACO</Bairro>
+									<CodigoMunicipio>2918357</CodigoMunicipio>
+									<Uf>BA</Uf>
+									<CodigoPais>1058</CodigoPais>
+									<Cep>44920000</Cep>
+								</Endereco>
+								<Contato>
+									<Telefone>74998100277</Telefone>
+									<Email />
+								</Contato>
+							</Tomador>
+							<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+							<OptanteSimplesNacional>1</OptanteSimplesNacional>
+							<IncentivoFiscal>2</IncentivoFiscal>
+						</InfDeclaracaoPrestacaoServico>
+					</DeclaracaoPrestacaoServico>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+		<ProximaPagina>0</ProximaPagina>
+	</ListaNfse>
+</ConsultarNfseFaixaResposta>

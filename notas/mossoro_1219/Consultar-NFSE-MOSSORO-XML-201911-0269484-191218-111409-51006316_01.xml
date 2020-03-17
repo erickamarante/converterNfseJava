@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseResposta
+    xmlns="http://www.tinus.com.br">
+    <ListaNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="NFSE-MOSSORO-0269484-191218-111409-000000336-51006305">
+                    <Numero>000000336</Numero>
+                    <CodigoVerificacao>EZZR94627</CodigoVerificacao>
+                    <DataEmissao>2019-11-04T11:54:39Z</DataEmissao>
+                    <NaturezaOperacao>1</NaturezaOperacao>
+                    <RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>1</IncentivadorCultural>
+                    <Competencia>201911Z</Competencia>
+                    <s01:Servico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <Valores>
+                            <ValorServicos>1012.30</ValorServicos>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>24.76</ValorIss>
+                            <ValorIssRetido>0.00</ValorIssRetido>
+                            <BaseCalculo>1012.30</BaseCalculo>
+                            <Aliquota>0.0244</Aliquota>
+                            <ValorLiquidoNfse>0.00</ValorLiquidoNfse>
+                        </Valores>
+                        <ItemListaServico>4.12</ItemListaServico>
+                        <CodigoCnae>8630002</CodigoCnae>
+                        <Discriminacao>SERVIÇOS ODONTOLOGICOS</Discriminacao>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                    </s01:Servico>
+                    <ValorCredito>0.00</ValorCredito>
+                    <PrestadorServico>
+                        <s01:IdentificacaoPrestador
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Cnpj>08242327000181</Cnpj>
+                            <InscricaoMunicipal>0269484</InscricaoMunicipal>
+                        </s01:IdentificacaoPrestador>
+                        <RazaoSocial>REABILITY ODONTOLOGIA E SAUDE EIRELI</RazaoSocial>
+                        <NomeFantasia>REABILIT ODONTOLOGIA</NomeFantasia>
+                        <s01:Endereco
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Endereco>RUA DOUTOR JOAO MARCELINO</Endereco>
+                            <Numero>710</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59612012</Cep>
+                        </s01:Endereco>
+                        <s01:Contato
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Telefone>84306580988826299</Telefone>
+                            <Email>contato.amplacont@gmail.com</Email>
+                        </s01:Contato>
+                    </PrestadorServico>
+                    <s01:TomadorServico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+                                <Cpf>03552386408</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>ALESANDRO MARQUES DE OLIVEIRA</RazaoSocial>
+                        <Endereco>
+                            <Endereco>AV ABOLIÇÃO </Endereco>
+                            <Numero>122</Numero>
+                            <Complemento>CASA</Complemento>
+                            <Bairro>ALTO DO SUMARE </Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59600-000</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>84990823</Telefone>
+                            <Email>alesandro_marques@unp.edu.br</Email>
+                        </Contato>
+                    </s01:TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                        <Uf>RN</Uf>
+                    </OrgaoGerador>
+                </InfNfse>
+                <Signature
+                    xmlns="http://www.w3.org/2000/09/xmldsig#"
+                    xmlns:s01="http://www.w3.org/2000/09/xmldsig#" xsi:type="s01:Signature"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="Id-C6F75BD3-401F-4448-91B8-4BE046839645">
+                    <SignedInfo>
+                        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+                        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+                        <Reference URI="#NFSE-MOSSORO-0269484-191218-111409-000000336-51006305">
+                            <Transforms>
+                                <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                                <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                            </Transforms>
+                            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+                            <DigestValue>vmt+HuE5vATpoQxiUVql24O7Q+i7KVVzZ4JT7V3FZhI=</DigestValue>
+                        </Reference>
+                    </SignedInfo>
+                    <SignatureValue>d/JlIbGoNKndCtRS9HH0j9QOqrK6p1HMQbZ5hbILsUlpAJ/Io4iHbbZGeT49HfUKtxtPoqE21WFDykMZZoZuSJo9MLvutEYBHrOFI1Ytxdr1+PJ9MwdzojUpMTzhdDm6pH+Yuufvxh4KCoX6LKOW8IfsVioAZKmNPG0PMSjNu+J3x5MtX95aZ/ALkcYA5H3YaLOQD6WQknnxSlcaflrOsZsmIgq8g6A3CeBm17sba4MJIYDhNSqEXsFzwOqRkJaXjtnfoWzXXHiWbcGblYvHRuPsRXPsnQXewQj7w3dZJBHz6HomLpfS60fsli4XF5prRZw075GXp3s+6ui3cyTJrw==</SignatureValue>
+                    <KeyInfo>
+                        <X509Data>
+                            <X509Certificate>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</X509Certificate>
+                        </X509Data>
+                    </KeyInfo>
+                </Signature>
+            </Nfse>
+        </CompNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="NFSE-MOSSORO-0269484-191218-111409-000000337-51006306">
+                    <Numero>000000337</Numero>
+                    <CodigoVerificacao>LXLV49509</CodigoVerificacao>
+                    <DataEmissao>2019-11-06T15:34:03Z</DataEmissao>
+                    <NaturezaOperacao>1</NaturezaOperacao>
+                    <RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>1</IncentivadorCultural>
+                    <Competencia>201911Z</Competencia>
+                    <s01:Servico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <Valores>
+                            <ValorServicos>334.80</ValorServicos>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>8.19</ValorIss>
+                            <ValorIssRetido>0.00</ValorIssRetido>
+                            <BaseCalculo>334.80</BaseCalculo>
+                            <Aliquota>0.0244</Aliquota>
+                            <ValorLiquidoNfse>0.00</ValorLiquidoNfse>
+                        </Valores>
+                        <ItemListaServico>4.12</ItemListaServico>
+                        <CodigoCnae>8630002</CodigoCnae>
+                        <Discriminacao>SERVIÇOS ODONTOLOGICOS</Discriminacao>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                    </s01:Servico>
+                    <ValorCredito>0.00</ValorCredito>
+                    <PrestadorServico>
+                        <s01:IdentificacaoPrestador
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Cnpj>08242327000181</Cnpj>
+                            <InscricaoMunicipal>0269484</InscricaoMunicipal>
+                        </s01:IdentificacaoPrestador>
+                        <RazaoSocial>REABILITY ODONTOLOGIA E SAUDE EIRELI</RazaoSocial>
+                        <NomeFantasia>REABILIT ODONTOLOGIA</NomeFantasia>
+                        <s01:Endereco
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Endereco>RUA DOUTOR JOAO MARCELINO</Endereco>
+                            <Numero>710</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59612012</Cep>
+                        </s01:Endereco>
+                        <s01:Contato
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Telefone>84306580988826299</Telefone>
+                            <Email>contato.amplacont@gmail.com</Email>
+                        </s01:Contato>
+                    </PrestadorServico>
+                    <s01:TomadorServico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+                                <Cpf>97139980497</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>FRANCISCA ANTONIA MONTENEGRO DE LIMA</RazaoSocial>
+                        <Endereco>
+                            <Endereco>SILVA JARDIM</Endereco>
+                            <Numero>288</Numero>
+                            <Complemento>CASA</Complemento>
+                            <Bairro>BOA VISTA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59600-000</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>84992245</Telefone>
+                        </Contato>
+                    </s01:TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                        <Uf>RN</Uf>
+                    </OrgaoGerador>
+                </InfNfse>
+                <Signature
+                    xmlns="http://www.w3.org/2000/09/xmldsig#"
+                    xmlns:s01="http://www.w3.org/2000/09/xmldsig#" xsi:type="s01:Signature"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="Id-47D50685-4B18-4D69-A005-0DF7A11A064A">
+                    <SignedInfo>
+                        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+                        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+                        <Reference URI="#NFSE-MOSSORO-0269484-191218-111409-000000337-51006306">
+                            <Transforms>
+                                <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                                <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                            </Transforms>
+                            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+                            <DigestValue>4LXaLBTc7mADTVDUCNt0PEWqT9aTbJP3BmvjBaLJok0=</DigestValue>
+                        </Reference>
+                    </SignedInfo>
+                    <SignatureValue>Ats0A5bUTYtyVOuDwkyBYIsRndiKSfeniVH0ok09afanq9r6bnhKmwXk6QHJYWC1tx6HcO6XkSawA+YKyyvZ+RLdD+/9cO7PCQHOisctdN0WlaEt1Jq+G7ZLzQe09gJT814as0IP1h6X4wTp8zpBsRbwWgJ8qLmQaBdpEUGHZDoL+ZLAg6dejjeLkei4nI4GXOxS7EJWfkN1btKS3FXMdXOI92nTDBuWZEt3hBd35VKVCmcu5odrDxlrn26IlqcrWaBEPNjA4n7tf0Cw6kAHOvWrsFNsuo9Tu2lJEFksqbfjFR3G3CBUKd6xM88CWi/et7BbxaX5zxLKcTrI1CSp6A==</SignatureValue>
+                    <KeyInfo>
+                        <X509Data>
+                            <X509Certificate>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</X509Certificate>
+                        </X509Data>
+                    </KeyInfo>
+                </Signature>
+            </Nfse>
+        </CompNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="NFSE-MOSSORO-0269484-191218-111409-000000338-51006307">
+                    <Numero>000000338</Numero>
+                    <CodigoVerificacao>IIOG59912</CodigoVerificacao>
+                    <DataEmissao>2019-11-26T14:30:22Z</DataEmissao>
+                    <NaturezaOperacao>1</NaturezaOperacao>
+                    <RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>1</IncentivadorCultural>
+                    <Competencia>201911Z</Competencia>
+                    <s01:Servico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <Valores>
+                            <ValorServicos>110.00</ValorServicos>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>2.69</ValorIss>
+                            <ValorIssRetido>0.00</ValorIssRetido>
+                            <BaseCalculo>110.00</BaseCalculo>
+                            <Aliquota>0.0244</Aliquota>
+                            <ValorLiquidoNfse>0.00</ValorLiquidoNfse>
+                        </Valores>
+                        <ItemListaServico>4.12</ItemListaServico>
+                        <CodigoCnae>8630002</CodigoCnae>
+                        <Discriminacao>SERVIÇOS ODONTOLOGICOS</Discriminacao>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                    </s01:Servico>
+                    <ValorCredito>0.00</ValorCredito>
+                    <PrestadorServico>
+                        <s01:IdentificacaoPrestador
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Cnpj>08242327000181</Cnpj>
+                            <InscricaoMunicipal>0269484</InscricaoMunicipal>
+                        </s01:IdentificacaoPrestador>
+                        <RazaoSocial>REABILITY ODONTOLOGIA E SAUDE EIRELI</RazaoSocial>
+                        <NomeFantasia>REABILIT ODONTOLOGIA</NomeFantasia>
+                        <s01:Endereco
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Endereco>RUA DOUTOR JOAO MARCELINO</Endereco>
+                            <Numero>710</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59612012</Cep>
+                        </s01:Endereco>
+                        <s01:Contato
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Telefone>84306580988826299</Telefone>
+                            <Email>contato.amplacont@gmail.com</Email>
+                        </s01:Contato>
+                    </PrestadorServico>
+                    <s01:TomadorServico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+                                <Cpf>05002501460</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>FRANCISCO BARBALHO DE SOUZA NETO</RazaoSocial>
+                        <Endereco>
+                            <Endereco>RUA TERCIO ROSADO DA COSTA</Endereco>
+                            <Numero>4409</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59600-000</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>84000000</Telefone>
+                            <Email>barbalhoneto@hotmail.com</Email>
+                        </Contato>
+                    </s01:TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                        <Uf>RN</Uf>
+                    </OrgaoGerador>
+                </InfNfse>
+                <Signature
+                    xmlns="http://www.w3.org/2000/09/xmldsig#"
+                    xmlns:s01="http://www.w3.org/2000/09/xmldsig#" xsi:type="s01:Signature"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="Id-A1B4C395-7646-47DA-829E-A4A0F77F1BAA">
+                    <SignedInfo>
+                        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+                        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+                        <Reference URI="#NFSE-MOSSORO-0269484-191218-111409-000000338-51006307">
+                            <Transforms>
+                                <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                                <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                            </Transforms>
+                            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+                            <DigestValue>vSU3ROCh1wnB3oHwJyuip9Qc73mdrotCKWOsE141hDo=</DigestValue>
+                        </Reference>
+                    </SignedInfo>
+                    <SignatureValue>a35VxybnOSI52Gp08kBNN6IVAN92SIQydbGKdK4SeBY9wgFqWSdbJ2JT9cUG1vGMxcHKIYAMa6GEYprHRvuxqhdbyPAxAbJ7qilGohwu/8vE0Q6bxUrs3eAFhNWmbKib3R0A/bL61r7kOi7IiMiOEcnRdQ6JpJj3foKh1ZPMoGbSaIBIYGxj/staDF+0uGhgQn5x/79xUGmqvI0WhMnfBMcpDTxnGVaKqYbpe9ItYFwOwcRgqrpa2NoDzRncRXwERAkHY8+GwYV4rV7ue/PlKQEncuXQ2qpmLaomCMW2r4qIhlh6FAfHDyz4dAkKMay88khb/YI4OcsN81yxaFzFEw==</SignatureValue>
+                    <KeyInfo>
+                        <X509Data>
+                            <X509Certificate>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</X509Certificate>
+                        </X509Data>
+                    </KeyInfo>
+                </Signature>
+            </Nfse>
+        </CompNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="NFSE-MOSSORO-0269484-191218-111409-000000339-51006308">
+                    <Numero>000000339</Numero>
+                    <CodigoVerificacao>PZCQ17574</CodigoVerificacao>
+                    <DataEmissao>2019-11-27T10:05:59Z</DataEmissao>
+                    <NaturezaOperacao>1</NaturezaOperacao>
+                    <RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>1</IncentivadorCultural>
+                    <Competencia>201911Z</Competencia>
+                    <s01:Servico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <Valores>
+                            <ValorServicos>110.00</ValorServicos>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>2.69</ValorIss>
+                            <ValorIssRetido>0.00</ValorIssRetido>
+                            <BaseCalculo>110.00</BaseCalculo>
+                            <Aliquota>0.0244</Aliquota>
+                            <ValorLiquidoNfse>0.00</ValorLiquidoNfse>
+                        </Valores>
+                        <ItemListaServico>4.12</ItemListaServico>
+                        <CodigoCnae>8630002</CodigoCnae>
+                        <Discriminacao>SERVIÇOS ODONTOLOGICOS</Discriminacao>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                    </s01:Servico>
+                    <ValorCredito>0.00</ValorCredito>
+                    <PrestadorServico>
+                        <s01:IdentificacaoPrestador
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Cnpj>08242327000181</Cnpj>
+                            <InscricaoMunicipal>0269484</InscricaoMunicipal>
+                        </s01:IdentificacaoPrestador>
+                        <RazaoSocial>REABILITY ODONTOLOGIA E SAUDE EIRELI</RazaoSocial>
+                        <NomeFantasia>REABILIT ODONTOLOGIA</NomeFantasia>
+                        <s01:Endereco
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Endereco>RUA DOUTOR JOAO MARCELINO</Endereco>
+                            <Numero>710</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59612012</Cep>
+                        </s01:Endereco>
+                        <s01:Contato
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Telefone>84306580988826299</Telefone>
+                            <Email>contato.amplacont@gmail.com</Email>
+                        </s01:Contato>
+                    </PrestadorServico>
+                    <s01:TomadorServico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+                                <Cpf>02457344492</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>CLEIDIONE SIQUEIRA DOS SANTOS SOUZA</RazaoSocial>
+                        <Endereco>
+                            <Endereco>RUA BENICIO GAGO</Endereco>
+                            <Numero>33</Numero>
+                            <Bairro>ALTO SAO MANOEL</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59633-333</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>84967750</Telefone>
+                            <Email>leandrocarlos.souza@gmail.com</Email>
+                        </Contato>
+                    </s01:TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                        <Uf>RN</Uf>
+                    </OrgaoGerador>
+                </InfNfse>
+                <Signature
+                    xmlns="http://www.w3.org/2000/09/xmldsig#"
+                    xmlns:s01="http://www.w3.org/2000/09/xmldsig#" xsi:type="s01:Signature"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="Id-EBDDC6A6-F216-4E9D-9977-B9016F100CDC">
+                    <SignedInfo>
+                        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+                        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+                        <Reference URI="#NFSE-MOSSORO-0269484-191218-111409-000000339-51006308">
+                            <Transforms>
+                                <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                                <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                            </Transforms>
+                            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+                            <DigestValue>ZqBDhGDnv8Qu7zKJt3NB2QRGK4k0g5LtSlOhACiXrWo=</DigestValue>
+                        </Reference>
+                    </SignedInfo>
+                    <SignatureValue>D1+XkArVfPzw0/XWHi6zmn303ywhe84DtmbJIMYxSoiulIr5RyIeqhJ8O4uY61ofWnhzCqI4/MGOjydNllOVgyCLj4e+ZBFNWvbYLViNYYq8SHLMqB4Hh7zQjb9HVC4f2BGM4EcWh0IIBJ23CK/bsMUo9PQGjrchL3/waBX266tGz0VQgTTZWeLBLYrWybtJuuyACa6jB7p+x4HAhLqO6LhyWPo7W5F2F/hNdOR3tK1oWW8aocXljeqES4mbx2nsbDbl2hB1x4xKKJcPnrCdOwLjxsHaLzPTdpv7YvCFAXjyoebMx2xXJDm/kIHHj4OtqkXba0erLlEzzdPy12U+KA==</SignatureValue>
+                    <KeyInfo>
+                        <X509Data>
+                            <X509Certificate>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</X509Certificate>
+                        </X509Data>
+                    </KeyInfo>
+                </Signature>
+            </Nfse>
+        </CompNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="NFSE-MOSSORO-0269484-191218-111409-000000340-51006309">
+                    <Numero>000000340</Numero>
+                    <CodigoVerificacao>BWDN56204</CodigoVerificacao>
+                    <DataEmissao>2019-11-28T14:32:59Z</DataEmissao>
+                    <NaturezaOperacao>1</NaturezaOperacao>
+                    <RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>1</IncentivadorCultural>
+                    <Competencia>201911Z</Competencia>
+                    <s01:Servico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <Valores>
+                            <ValorServicos>855.00</ValorServicos>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>20.91</ValorIss>
+                            <ValorIssRetido>0.00</ValorIssRetido>
+                            <BaseCalculo>855.00</BaseCalculo>
+                            <Aliquota>0.0244</Aliquota>
+                            <ValorLiquidoNfse>0.00</ValorLiquidoNfse>
+                        </Valores>
+                        <ItemListaServico>4.12</ItemListaServico>
+                        <CodigoCnae>8630002</CodigoCnae>
+                        <Discriminacao>SERVIÇOS ODONTOLOGICOS EM FAVOR DE CONJUGE JUSSELMA MARIA FIRMINO DE OLIVEIRA DN 17/04/1972</Discriminacao>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                    </s01:Servico>
+                    <ValorCredito>0.00</ValorCredito>
+                    <PrestadorServico>
+                        <s01:IdentificacaoPrestador
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Cnpj>08242327000181</Cnpj>
+                            <InscricaoMunicipal>0269484</InscricaoMunicipal>
+                        </s01:IdentificacaoPrestador>
+                        <RazaoSocial>REABILITY ODONTOLOGIA E SAUDE EIRELI</RazaoSocial>
+                        <NomeFantasia>REABILIT ODONTOLOGIA</NomeFantasia>
+                        <s01:Endereco
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Endereco>RUA DOUTOR JOAO MARCELINO</Endereco>
+                            <Numero>710</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59612012</Cep>
+                        </s01:Endereco>
+                        <s01:Contato
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Telefone>84306580988826299</Telefone>
+                            <Email>contato.amplacont@gmail.com</Email>
+                        </s01:Contato>
+                    </PrestadorServico>
+                    <s01:TomadorServico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+                                <Cpf>14219840400</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>LUIZ ANTONIO DA SILVA</RazaoSocial>
+                        <Endereco>
+                            <Endereco>RUA TERESOPOLIS QD 78</Endereco>
+                            <Numero>SN</Numero>
+                            <Complemento>LOTE 20</Complemento>
+                            <Bairro>JARDIM MARILEIA</Bairro>
+                            <CodigoMunicipio>3304524</CodigoMunicipio>
+                            <Uf>RJ</Uf>
+                            <Cep>98980-000</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>22277178</Telefone>
+                            <Email>antoniodenatal@gmail.com</Email>
+                        </Contato>
+                    </s01:TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                        <Uf>RN</Uf>
+                    </OrgaoGerador>
+                </InfNfse>
+                <Signature
+                    xmlns="http://www.w3.org/2000/09/xmldsig#"
+                    xmlns:s01="http://www.w3.org/2000/09/xmldsig#" xsi:type="s01:Signature"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="Id-2A464C77-6076-4FDD-A2D3-DF4957C70A26">
+                    <SignedInfo>
+                        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+                        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+                        <Reference URI="#NFSE-MOSSORO-0269484-191218-111409-000000340-51006309">
+                            <Transforms>
+                                <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                                <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                            </Transforms>
+                            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+                            <DigestValue>hgXVoGnf1QzP9NHHe5opgDVA5pxAAgpZAIWXbwd2/nE=</DigestValue>
+                        </Reference>
+                    </SignedInfo>
+                    <SignatureValue>NoLRTWi7CVttgq5aDN3hKQ1cziQzzjQuBKvZUFHtoCOMMqcpotYGSD2/voNXO20MKPzt6Us7OuU4/LEdaz9P25qEDemvmskhPwqrmQGmtL3vq3i5I4UWKAc13gERsnwVQU5M/YOlFEBxyqsD3m7ue+lLoP8uC9abXmZV1cm89/YUxAv8HJ7WIjqHSHh5BqyC5k5g7UrWLZkB/fw4cT9Kjcq0EU4JIVkz9v3cYCMfhVZ6vmi5nSKckb5bbqzjk+j6bvDehd8iOeOxrdQooy9rX5nEyEwOMHsl2sDJ6n9nQEHWapIXsJkm0CSunSMlye7iU1T0qBC6VQBBuMAqIXfdPg==</SignatureValue>
+                    <KeyInfo>
+                        <X509Data>
+                            <X509Certificate>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</X509Certificate>
+                        </X509Data>
+                    </KeyInfo>
+                </Signature>
+            </Nfse>
+        </CompNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="NFSE-MOSSORO-0269484-191218-111409-000000341-51006310">
+                    <Numero>000000341</Numero>
+                    <CodigoVerificacao>JAVZ03207</CodigoVerificacao>
+                    <DataEmissao>2019-11-28T15:11:29Z</DataEmissao>
+                    <NaturezaOperacao>1</NaturezaOperacao>
+                    <RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>1</IncentivadorCultural>
+                    <Competencia>201911Z</Competencia>
+                    <s01:Servico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <Valores>
+                            <ValorServicos>80.00</ValorServicos>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>1.96</ValorIss>
+                            <ValorIssRetido>0.00</ValorIssRetido>
+                            <BaseCalculo>80.00</BaseCalculo>
+                            <Aliquota>0.0244</Aliquota>
+                            <ValorLiquidoNfse>0.00</ValorLiquidoNfse>
+                        </Valores>
+                        <ItemListaServico>4.12</ItemListaServico>
+                        <CodigoCnae>8630002</CodigoCnae>
+                        <Discriminacao>SERVIÇOS ODONTOLOGICOS</Discriminacao>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                    </s01:Servico>
+                    <ValorCredito>0.00</ValorCredito>
+                    <PrestadorServico>
+                        <s01:IdentificacaoPrestador
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Cnpj>08242327000181</Cnpj>
+                            <InscricaoMunicipal>0269484</InscricaoMunicipal>
+                        </s01:IdentificacaoPrestador>
+                        <RazaoSocial>REABILITY ODONTOLOGIA E SAUDE EIRELI</RazaoSocial>
+                        <NomeFantasia>REABILIT ODONTOLOGIA</NomeFantasia>
+                        <s01:Endereco
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Endereco>RUA DOUTOR JOAO MARCELINO</Endereco>
+                            <Numero>710</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59612012</Cep>
+                        </s01:Endereco>
+                        <s01:Contato
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Telefone>84306580988826299</Telefone>
+                            <Email>contato.amplacont@gmail.com</Email>
+                        </s01:Contato>
+                    </PrestadorServico>
+                    <s01:TomadorServico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+                                <Cpf>67315488472</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>FRANCINEIDE SOARES DA COSTA SILVA</RazaoSocial>
+                        <Endereco>
+                            <Endereco>RUA PORFIRIO GABRIEL</Endereco>
+                            <Numero>19</Numero>
+                            <Bairro>CENTRO</Bairro>
+                            <CodigoMunicipio>2401453</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59695-000</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>8491336352</Telefone>
+                            <Email>nei.delucas@hotmail.com</Email>
+                        </Contato>
+                    </s01:TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                        <Uf>RN</Uf>
+                    </OrgaoGerador>
+                </InfNfse>
+                <Signature
+                    xmlns="http://www.w3.org/2000/09/xmldsig#"
+                    xmlns:s01="http://www.w3.org/2000/09/xmldsig#" xsi:type="s01:Signature"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="Id-A2DB5EC1-B487-4F3F-B1F1-F5134AE8ADDB">
+                    <SignedInfo>
+                        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+                        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+                        <Reference URI="#NFSE-MOSSORO-0269484-191218-111409-000000341-51006310">
+                            <Transforms>
+                                <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                                <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                            </Transforms>
+                            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+                            <DigestValue>t1jMKcABVE73OeSJyrO74v6Q5EH7fzLCZSvOHz2BGmI=</DigestValue>
+                        </Reference>
+                    </SignedInfo>
+                    <SignatureValue>FWmRpHDJHtWI+SgHVbEahOxsgw3A4YvRIP3Qy7PJOqiuwtY0LFGAFyKPpgBViLD4XLVPtm1yacb9tiW/3cI1Jt6sdGsBuNBUiJeplJ/zK/UGJHW6adC+y38tRJln5yLxd9dHlluCQNefufep5SNB/jZT3cTfoKEACMRZAZ/VB6gFN7BPrrhwEH1GuwUwJeCoaSASPk4uj7FeJhW23FV8/ZZP4B2PdBxBFrDEhOEOAO9DPNcExQdMaFTOHImqLliKzMTGmi+UetEXjAR+2Flmz09MkvxrQMk3HcBvL6d5Rh+mS0Gi9LoCSciL0zh6Hrgy05kPet6M8GKHZIViWnyWDw==</SignatureValue>
+                    <KeyInfo>
+                        <X509Data>
+                            <X509Certificate>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</X509Certificate>
+                        </X509Data>
+                    </KeyInfo>
+                </Signature>
+            </Nfse>
+        </CompNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="NFSE-MOSSORO-0269484-191218-111409-000000342-51006311">
+                    <Numero>000000342</Numero>
+                    <CodigoVerificacao>XLOF93038</CodigoVerificacao>
+                    <DataEmissao>2019-11-28T18:57:41Z</DataEmissao>
+                    <NaturezaOperacao>1</NaturezaOperacao>
+                    <RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>1</IncentivadorCultural>
+                    <Competencia>201911Z</Competencia>
+                    <s01:Servico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <Valores>
+                            <ValorServicos>110.00</ValorServicos>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>2.69</ValorIss>
+                            <ValorIssRetido>0.00</ValorIssRetido>
+                            <BaseCalculo>110.00</BaseCalculo>
+                            <Aliquota>0.0244</Aliquota>
+                            <ValorLiquidoNfse>0.00</ValorLiquidoNfse>
+                        </Valores>
+                        <ItemListaServico>4.12</ItemListaServico>
+                        <CodigoCnae>8630002</CodigoCnae>
+                        <Discriminacao>SERVIÇOS ODONTOLOGICOS</Discriminacao>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                    </s01:Servico>
+                    <ValorCredito>0.00</ValorCredito>
+                    <PrestadorServico>
+                        <s01:IdentificacaoPrestador
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Cnpj>08242327000181</Cnpj>
+                            <InscricaoMunicipal>0269484</InscricaoMunicipal>
+                        </s01:IdentificacaoPrestador>
+                        <RazaoSocial>REABILITY ODONTOLOGIA E SAUDE EIRELI</RazaoSocial>
+                        <NomeFantasia>REABILIT ODONTOLOGIA</NomeFantasia>
+                        <s01:Endereco
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Endereco>RUA DOUTOR JOAO MARCELINO</Endereco>
+                            <Numero>710</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59612012</Cep>
+                        </s01:Endereco>
+                        <s01:Contato
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Telefone>84306580988826299</Telefone>
+                            <Email>contato.amplacont@gmail.com</Email>
+                        </s01:Contato>
+                    </PrestadorServico>
+                    <s01:TomadorServico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+                                <Cpf>87850001400</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>JOSE HELIO CIPRIANO DA SILVA </RazaoSocial>
+                        <Endereco>
+                            <Endereco>RUA SABINO VALENTIM</Endereco>
+                            <Numero>03</Numero>
+                            <Complemento>CS 02</Complemento>
+                            <Bairro>SÃO MANOEL</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59628-020</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>84992278</Telefone>
+                            <Email>jhelio41@hotmail.com</Email>
+                        </Contato>
+                    </s01:TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                        <Uf>RN</Uf>
+                    </OrgaoGerador>
+                </InfNfse>
+                <Signature
+                    xmlns="http://www.w3.org/2000/09/xmldsig#"
+                    xmlns:s01="http://www.w3.org/2000/09/xmldsig#" xsi:type="s01:Signature"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="Id-E63F644A-0418-4649-B7FC-DD511AE4210D">
+                    <SignedInfo>
+                        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+                        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+                        <Reference URI="#NFSE-MOSSORO-0269484-191218-111409-000000342-51006311">
+                            <Transforms>
+                                <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                                <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                            </Transforms>
+                            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+                            <DigestValue>q0mCLSVVrhLiV7Lr3j+nOiZxCL5WTzH4jJ3LVXcezAA=</DigestValue>
+                        </Reference>
+                    </SignedInfo>
+                    <SignatureValue>W0665854hnh9hWP+n64sv1XbybAg37Fr125ZFYBuFOqWILSugTPgaeDZik5U0uy0kZDKl9pRJFj/sV/DxxR1zp5VT3GDnoW0g+xBG1S1tzrFnJiNeeGxsNBJ796Wa4xlh6i8SzeBJ8h4IALqYZxL4NkUCuOcZSJB0TPkwqZQJ0lkSa7dYSgj5Reex+nyJliEWPVq4B6Urj4BoAceGlIoEbF8BhURWS/DEyXbMANy1oMA4AzoRAUYx1tEyNOez18WeKPghJfsEW5DgIKIB7Om+6D2996Mvn7S4tSDPYDdij8EOl+6IhwnNzzX7oqG37jDTJWatQfEoebyZtDoFdLAaQ==</SignatureValue>
+                    <KeyInfo>
+                        <X509Data>
+                            <X509Certificate>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</X509Certificate>
+                        </X509Data>
+                    </KeyInfo>
+                </Signature>
+            </Nfse>
+        </CompNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="NFSE-MOSSORO-0269484-191218-111409-000000343-51006312">
+                    <Numero>000000343</Numero>
+                    <CodigoVerificacao>BBDB55557</CodigoVerificacao>
+                    <DataEmissao>2019-11-29T08:40:42Z</DataEmissao>
+                    <NaturezaOperacao>1</NaturezaOperacao>
+                    <RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>1</IncentivadorCultural>
+                    <Competencia>201911Z</Competencia>
+                    <s01:Servico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <Valores>
+                            <ValorServicos>70.00</ValorServicos>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>1.71</ValorIss>
+                            <ValorIssRetido>0.00</ValorIssRetido>
+                            <BaseCalculo>70.00</BaseCalculo>
+                            <Aliquota>0.0244</Aliquota>
+                            <ValorLiquidoNfse>0.00</ValorLiquidoNfse>
+                        </Valores>
+                        <ItemListaServico>4.12</ItemListaServico>
+                        <CodigoCnae>8630002</CodigoCnae>
+                        <Discriminacao>SERVIÇOS ODONTOLOGICOS EM FAVOR DA CONJUGE CIBELE MARIA MURINELLE LIMA DN 23 06 1987</Discriminacao>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                    </s01:Servico>
+                    <ValorCredito>0.00</ValorCredito>
+                    <PrestadorServico>
+                        <s01:IdentificacaoPrestador
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Cnpj>08242327000181</Cnpj>
+                            <InscricaoMunicipal>0269484</InscricaoMunicipal>
+                        </s01:IdentificacaoPrestador>
+                        <RazaoSocial>REABILITY ODONTOLOGIA E SAUDE EIRELI</RazaoSocial>
+                        <NomeFantasia>REABILIT ODONTOLOGIA</NomeFantasia>
+                        <s01:Endereco
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Endereco>RUA DOUTOR JOAO MARCELINO</Endereco>
+                            <Numero>710</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59612012</Cep>
+                        </s01:Endereco>
+                        <s01:Contato
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Telefone>84306580988826299</Telefone>
+                            <Email>contato.amplacont@gmail.com</Email>
+                        </s01:Contato>
+                    </PrestadorServico>
+                    <s01:TomadorServico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+                                <Cpf>04644606464</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>NICHOLLAS RENNAH ADELINO DE ALMEIDA</RazaoSocial>
+                        <Endereco>
+                            <Endereco>JARDIM HORTENCIA     </Endereco>
+                            <Numero>205</Numero>
+                            <Bairro>ALTO SUMARE</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59634-035</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>84997581</Telefone>
+                        </Contato>
+                    </s01:TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                        <Uf>RN</Uf>
+                    </OrgaoGerador>
+                </InfNfse>
+                <Signature
+                    xmlns="http://www.w3.org/2000/09/xmldsig#"
+                    xmlns:s01="http://www.w3.org/2000/09/xmldsig#" xsi:type="s01:Signature"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="Id-652A5649-AE86-405D-A47E-8C3BE723F455">
+                    <SignedInfo>
+                        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+                        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+                        <Reference URI="#NFSE-MOSSORO-0269484-191218-111409-000000343-51006312">
+                            <Transforms>
+                                <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                                <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                            </Transforms>
+                            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+                            <DigestValue>subus4usQ05XiIXcjGK2TFlswVvFO+K8o+Cogiq1cXg=</DigestValue>
+                        </Reference>
+                    </SignedInfo>
+                    <SignatureValue>YMndCCO3/o0TNTqnpg5k8lWxfhFpvhb1YYM0yfWE5RfpEsfwvIyDIQRJasD3xeTRr9s9ubhIL1+pbiaHvJmOb5EAlYaskp0yr0zltsSuAvcG6N27U819JE4CkbBLVnENx6LnKk3HvU2+24JsfssSBy1a/DihYYXw/VJq0a99qP554TwWIElr6KGEtxJUR4zix0+X54Azg8/8XGoLhxsKnzlOWK+zC8uazjitK3zxLHamAJfexuDMhp5/xuRmM4PwcqvgireDjg9vTtY5p5EQGoulWkJSOP2ceq87XiuX8KA/gp31BcAwdvcB751KQOpODtApu33PzIfizp2jfu9Crg==</SignatureValue>
+                    <KeyInfo>
+                        <X509Data>
+                            <X509Certificate>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</X509Certificate>
+                        </X509Data>
+                    </KeyInfo>
+                </Signature>
+            </Nfse>
+        </CompNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="NFSE-MOSSORO-0269484-191218-111409-000000344-51006313">
+                    <Numero>000000344</Numero>
+                    <CodigoVerificacao>LARJ62355</CodigoVerificacao>
+                    <DataEmissao>2019-11-29T10:29:55Z</DataEmissao>
+                    <NaturezaOperacao>1</NaturezaOperacao>
+                    <RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>1</IncentivadorCultural>
+                    <Competencia>201911Z</Competencia>
+                    <s01:Servico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <Valores>
+                            <ValorServicos>60.00</ValorServicos>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>1.47</ValorIss>
+                            <ValorIssRetido>0.00</ValorIssRetido>
+                            <BaseCalculo>60.00</BaseCalculo>
+                            <Aliquota>0.0244</Aliquota>
+                            <ValorLiquidoNfse>0.00</ValorLiquidoNfse>
+                        </Valores>
+                        <ItemListaServico>4.12</ItemListaServico>
+                        <CodigoCnae>8630002</CodigoCnae>
+                        <Discriminacao>SERVIÇOS ODONTOLOGICOS EM FAVOR DO FILHO ALDEMIR DE OLIVEIRA CAMARA SEGUNDO DN 17 02 1997</Discriminacao>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                    </s01:Servico>
+                    <ValorCredito>0.00</ValorCredito>
+                    <PrestadorServico>
+                        <s01:IdentificacaoPrestador
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Cnpj>08242327000181</Cnpj>
+                            <InscricaoMunicipal>0269484</InscricaoMunicipal>
+                        </s01:IdentificacaoPrestador>
+                        <RazaoSocial>REABILITY ODONTOLOGIA E SAUDE EIRELI</RazaoSocial>
+                        <NomeFantasia>REABILIT ODONTOLOGIA</NomeFantasia>
+                        <s01:Endereco
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Endereco>RUA DOUTOR JOAO MARCELINO</Endereco>
+                            <Numero>710</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59612012</Cep>
+                        </s01:Endereco>
+                        <s01:Contato
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Telefone>84306580988826299</Telefone>
+                            <Email>contato.amplacont@gmail.com</Email>
+                        </s01:Contato>
+                    </PrestadorServico>
+                    <s01:TomadorServico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+                                <Cpf>14396688334</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>ADRIÃO FRANCISCO NETO</RazaoSocial>
+                        <Endereco>
+                            <Endereco>RUA: PADRE ELESBÃO</Endereco>
+                            <Numero>391</Numero>
+                            <Bairro>BOA VISTA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59605-140</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>84991487</Telefone>
+                        </Contato>
+                    </s01:TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                        <Uf>RN</Uf>
+                    </OrgaoGerador>
+                </InfNfse>
+                <Signature
+                    xmlns="http://www.w3.org/2000/09/xmldsig#"
+                    xmlns:s01="http://www.w3.org/2000/09/xmldsig#" xsi:type="s01:Signature"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="Id-D8A8D622-6903-4395-A252-FE9AEE100C62">
+                    <SignedInfo>
+                        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+                        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+                        <Reference URI="#NFSE-MOSSORO-0269484-191218-111409-000000344-51006313">
+                            <Transforms>
+                                <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                                <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                            </Transforms>
+                            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+                            <DigestValue>RRU2s7Q75PuwAiYVFNgVIeCgcGK/bP+vO+udLTdmJuE=</DigestValue>
+                        </Reference>
+                    </SignedInfo>
+                    <SignatureValue>brO2IWSnY+ha5CYYg3XD6KmXWHrPdYlHmS83y4Bcr+FRntZPN5pz2MVOhKEUlVn+ZlezP28J2EjpDs5mvST/wOxtIPiYKsGgiRpaqxfYsjymxzKdngTaJVt3CgVOeVrGsg8fjlaGZGX1oMBgHfvhSX3rcckxlTgSWH4TIrJTO9T/FWL/oIpZgd8u6u6ytlOzkLGhkqQGc8rvIEOf7EAqE060OZFuyKBPd92uXc05KuI7TAD+l52iht5jlVjprMuyxvdFZHxMwRmhWFNipy/Rl/lDo+hCYKOALEm+wl3bHQShlobsCJX3nPR93mwDSh7+AFbkIw+4g6kx9CIFRsy7lQ==</SignatureValue>
+                    <KeyInfo>
+                        <X509Data>
+                            <X509Certificate>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</X509Certificate>
+                        </X509Data>
+                    </KeyInfo>
+                </Signature>
+            </Nfse>
+        </CompNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="NFSE-MOSSORO-0269484-191218-111409-000000345-51006314">
+                    <Numero>000000345</Numero>
+                    <CodigoVerificacao>QXWW14250</CodigoVerificacao>
+                    <DataEmissao>2019-11-29T11:11:01Z</DataEmissao>
+                    <NaturezaOperacao>1</NaturezaOperacao>
+                    <RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>1</IncentivadorCultural>
+                    <Competencia>201911Z</Competencia>
+                    <s01:Servico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <Valores>
+                            <ValorServicos>2333.34</ValorServicos>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>57.08</ValorIss>
+                            <ValorIssRetido>0.00</ValorIssRetido>
+                            <BaseCalculo>2333.34</BaseCalculo>
+                            <Aliquota>0.0244</Aliquota>
+                            <ValorLiquidoNfse>0.00</ValorLiquidoNfse>
+                        </Valores>
+                        <ItemListaServico>4.12</ItemListaServico>
+                        <CodigoCnae>8630002</CodigoCnae>
+                        <Discriminacao>SERVIÇOS ODONTOLOGICOS </Discriminacao>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                    </s01:Servico>
+                    <ValorCredito>0.00</ValorCredito>
+                    <PrestadorServico>
+                        <s01:IdentificacaoPrestador
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Cnpj>08242327000181</Cnpj>
+                            <InscricaoMunicipal>0269484</InscricaoMunicipal>
+                        </s01:IdentificacaoPrestador>
+                        <RazaoSocial>REABILITY ODONTOLOGIA E SAUDE EIRELI</RazaoSocial>
+                        <NomeFantasia>REABILIT ODONTOLOGIA</NomeFantasia>
+                        <s01:Endereco
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Endereco>RUA DOUTOR JOAO MARCELINO</Endereco>
+                            <Numero>710</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59612012</Cep>
+                        </s01:Endereco>
+                        <s01:Contato
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Telefone>84306580988826299</Telefone>
+                            <Email>contato.amplacont@gmail.com</Email>
+                        </s01:Contato>
+                    </PrestadorServico>
+                    <s01:TomadorServico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+                                <Cpf>37867385487</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>MARIA AUZILENE DA CONCEIÇÃO</RazaoSocial>
+                        <Endereco>
+                            <Endereco>FRANCISCO ANTONIO</Endereco>
+                            <Numero>212</Numero>
+                            <Bairro>CENTRO</Bairro>
+                            <CodigoMunicipio>2401453</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59600-000</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>84333333</Telefone>
+                        </Contato>
+                    </s01:TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                        <Uf>RN</Uf>
+                    </OrgaoGerador>
+                </InfNfse>
+                <Signature
+                    xmlns="http://www.w3.org/2000/09/xmldsig#"
+                    xmlns:s01="http://www.w3.org/2000/09/xmldsig#" xsi:type="s01:Signature"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="Id-5E45B5DE-FDA3-41A9-981B-A1644E169B0C">
+                    <SignedInfo>
+                        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+                        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+                        <Reference URI="#NFSE-MOSSORO-0269484-191218-111409-000000345-51006314">
+                            <Transforms>
+                                <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                                <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                            </Transforms>
+                            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+                            <DigestValue>DntClgeKQaJX7eaRKijitR8TTRyU1FyrDGi/4hCz1Gc=</DigestValue>
+                        </Reference>
+                    </SignedInfo>
+                    <SignatureValue>QA5SFnpozv9AChYko683AnSpnv17SqWtZ+1fRPSOvoxbLC64UmGd9xP0XjtlFfYh5tK8aANlNQhlOwOHOnNiZ+NsQf8dFsFPRxdxNGWBCBCQjwcq1khCZZF54VykVsbyc9zm8hyesmPbDWBUOJIzma1AVABadOTooiJueLYGhlrjyRF4JoFc1/fVL6t8O/rXhY+I5Zlc1Fka4WWxoGYoZB7p0jPEHhJvyTYrhIYKfln5o732w7vT9YWOADhmdHCuwjEASDf+eYKCZ2rcp/BN/7K5vRQdWFF6f+wp7TJFgBsoVHALVEmUTQ/q3nwcYLnlDU4+DZGEPiNwdn8v23Rv5w==</SignatureValue>
+                    <KeyInfo>
+                        <X509Data>
+                            <X509Certificate>MIIH7DCCBdSgAwIBAgIQfMOVvnnsu1KmAuu6Cp5LmjANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQGEwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc1MB4XDTE5MDcwOTEzMzMwNFoXDTIwMDcwODEzMzMwNFowgdgxCzAJBgNVBAYTAkJSMRMwEQYDVQQKDApJQ1AtQnJhc2lsMQswCQYDVQQIDAJSTjEQMA4GA1UEBwwHTW9zc29ybzE2MDQGA1UECwwtU2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLDA1SRkIgZS1DTlBKIEExMRcwFQYDVQQLDA4wOTM5NDI5NzAwMDE5MTEsMCoGA1UEAwwjTVVOSUNJUElPIERFIE1PU1NPUk86MDgzNDg5NzEwMDAxMzkwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCucuutZj+D1dKEjC3dnnrXwudXTM5li0SCXdGY9sNCgrG9wNSYLTGM2yStP0AIQDBPxeN+PTzIOyz6cJEGblxYJB8rUaH5KXGmX2uGAU1ZodFc+Cor3eGA3xxqJs4n6Z1DsKThExthpxIgzktCVPnpyw0qbz1r3A39j3kssrIEazPrwrVyh26JZYG7ycbGCKVQO0RXkC3FsCD0yz4pwLb3kgidg7sw1W0Jh1AEQ9lgNnuY6Qd3oFh7SLesPZlCS8Gni7JFVvNMlcocylXQtlKQiiW82f2zWTHSSGAKCoTLyVekt4aalwTDlPUnF2k6ztbRVdYZcYpr2xU3kt01B/yDAgMBAAGjggMPMIIDCzCBvgYDVR0RBIG2MIGzoEAGBWBMAQMEoDcENTI2MTAxOTUyMTk5NTE2OTg0NjgwMDAwMDAwMDAwMDAwMDAwMDAwMDk4ODcwMlNFU1BEU1JOoCIGBWBMAQMCoBkEF1JPU0FMQkEgQ0lBUkxJTkkgUk9TQURPoBkGBWBMAQMDoBAEDjA4MzQ4OTcxMDAwMTM5oBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMIEXYWJyYWFvcGFkaWxoYUBnbWFpbC5jb20wCQYDVR0TBAIwADAfBgNVHSMEGDAWgBRTfX+dvtFh0CC62p/jiacTc1jNQjB/BgNVHSAEeDB2MHQGBmBMAQIBDDBqMGgGCCsGAQUFBwIBFlxodHRwOi8vaWNwLWJyYXNpbC5jZXJ0aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2RwYy9BQ19DZXJ0aXNpZ25fUkZCL0RQQ19BQ19DZXJ0aXNpZ25fUkZCLnBkZjCBvAYDVR0fBIG0MIGxMFegVaBThlFodHRwOi8vaWNwLWJyYXNpbC5jZXJ0aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2xjci9BQ0NlcnRpc2lnblJGQkc1L0xhdGVzdENSTC5jcmwwVqBUoFKGUGh0dHA6Ly9pY3AtYnJhc2lsLm91dHJhbGNyLmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25SRkJHNS9MYXRlc3RDUkwuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwgawGCCsGAQUFBwEBBIGfMIGcMF8GCCsGAQUFBzAChlNodHRwOi8vaWNwLWJyYXNpbC5jZXJ0aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2NlcnRpZmljYWRvcy9BQ19DZXJ0aXNpZ25fUkZCX0c1LnA3YzA5BggrBgEFBQcwAYYtaHR0cDovL29jc3AtYWMtY2VydGlzaWduLXJmYi5jZXJ0aXNpZ24uY29tLmJyMA0GCSqGSIb3DQEBCwUAA4ICAQAEbtyqMOsalmNN0XPL+jTBKBpYrsHGQycVAUsnYmcwVnCg5ALAd7S68prFSCIohbGuSmxa5SbrEZkpHloGK73XqBoAyLB6RkODlFhwY/2xMukcoraIo8XrPlKUnubzAD4ekcDwDscIWVwiX8/MsIN1svHUCQIpK4LxMGeggdUYghb1Yz8K3Yl8Lur2mqK3YJOBuPXhtVwg7lQZNIjNmgR46dAawNXyzxpjZMALelJUW3zeD1sh6aJJkmwTnx4W2znMmnUgmFHtTNA/8OhyNWVV0u27aE37uE0+GPXkacgAS+nO+BQS+eHZQ+49XSdgIdBtlGHPg7PXoJ+WVK4a92dmKrJ6/JByTJdbHAJG1oIAHXrwFoFzZZrV2Z61kjuAdkfn4DSYRJy2RH8b8ZvHj3TOCj1SU/NQie8oDnj9K619UsFl76GzFlIG3h9izPHR/vtAPVadOTg68muSL/AM38fOCAqZM3dVq3cpCxltpMrMh4XJy72VI2uM9UYAo5dqtWCXaDRXOg1aU1Nh4qcaW/4GV8jfdRW8goJIkQ5eRpdMtB7Bd7EfxnAoaAKP6hMcKh7VH9KZH4gSjtj0ZEFlyglhAu3whIz8lgv1BgAOFJhvlX973R42Pp33V/Yw1XWwj93HU1hJAVm7FKCGs0vrIjiqXS6Rq4XtwI/9gcRnFY8FPA==</X509Certificate>
+                        </X509Data>
+                    </KeyInfo>
+                </Signature>
+            </Nfse>
+        </CompNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="NFSE-MOSSORO-0269484-191218-111409-000000346-51006315">
+                    <Numero>000000346</Numero>
+                    <CodigoVerificacao>CUAS11651</CodigoVerificacao>
+                    <DataEmissao>2019-11-29T11:29:48Z</DataEmissao>
+                    <NaturezaOperacao>1</NaturezaOperacao>
+                    <RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>1</IncentivadorCultural>
+                    <Competencia>201911Z</Competencia>
+                    <s01:Servico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <Valores>
+                            <ValorServicos>95.00</ValorServicos>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>2.32</ValorIss>
+                            <ValorIssRetido>0.00</ValorIssRetido>
+                            <BaseCalculo>95.00</BaseCalculo>
+                            <Aliquota>0.0244</Aliquota>
+                            <ValorLiquidoNfse>0.00</ValorLiquidoNfse>
+                        </Valores>
+                        <ItemListaServico>4.12</ItemListaServico>
+                        <CodigoCnae>8630002</CodigoCnae>
+                        <Discriminacao>SERVIÇOS ODONTOLOGICOS</Discriminacao>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                    </s01:Servico>
+                    <ValorCredito>0.00</ValorCredito>
+                    <PrestadorServico>
+                        <s01:IdentificacaoPrestador
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Cnpj>08242327000181</Cnpj>
+                            <InscricaoMunicipal>0269484</InscricaoMunicipal>
+                        </s01:IdentificacaoPrestador>
+                        <RazaoSocial>REABILITY ODONTOLOGIA E SAUDE EIRELI</RazaoSocial>
+                        <NomeFantasia>REABILIT ODONTOLOGIA</NomeFantasia>
+                        <s01:Endereco
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Endereco>RUA DOUTOR JOAO MARCELINO</Endereco>
+                            <Numero>710</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59612012</Cep>
+                        </s01:Endereco>
+                        <s01:Contato
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Telefone>84306580988826299</Telefone>
+                            <Email>contato.amplacont@gmail.com</Email>
+                        </s01:Contato>
+                    </PrestadorServico>
+                    <s01:TomadorServico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+                                <Cpf>63873451468</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>RITA DALVANUBIA PEREIRA MOURA</RazaoSocial>
+                        <Endereco>
+                            <Endereco>RUA MELO FRANCO</Endereco>
+                            <Numero>1999</Numero>
+                            <Bairro>BARROCAS</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59621-090</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>8433166982</Telefone>
+                            <Email>dalvanubia@hotmail.com</Email>
+                        </Contato>
+                    </s01:TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                        <Uf>RN</Uf>
+                    </OrgaoGerador>
+                </InfNfse>
+                <Signature
+                    xmlns="http://www.w3.org/2000/09/xmldsig#"
+                    xmlns:s01="http://www.w3.org/2000/09/xmldsig#" xsi:type="s01:Signature"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="Id-2BF48CD7-381D-4A15-BCB6-221FDA7E5FCF">
+                    <SignedInfo>
+                        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+                        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+                        <Reference URI="#NFSE-MOSSORO-0269484-191218-111409-000000346-51006315">
+                            <Transforms>
+                                <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                                <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                            </Transforms>
+                            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+                            <DigestValue>AeINx5dL3nq0LoJyJiJ+KToWipl6BXxLz2EnkPZNLtc=</DigestValue>
+                        </Reference>
+                    </SignedInfo>
+                    <SignatureValue>oMnKGRE+ClRNonbsik5cwEvZKyiLpEZH/3IpjJ0n1wmr1AP/JE1HWMjkr6M+GChovg0GZ0mKleL1OVIx4pvzFChdAefWy+MOMcMHgGU9EcCAQuS3Vrhl5XOo4QDTQPKWc1oxxJ34DBpq18ngNH+c6lwSyRLXgaxrFkdsMtGZdwKH8nibg3JMGQjh+VCp20NpIl/FyTWwSeGNP8PPBg5DHFyoAMe3Y8VeABZUk21+COdkyDD4nPU2PvzimusJYQVTI/SNmzFLOOKyieN3zOVs8GKu7YuV9U9DJdgqy5aHh9XjfCq31SsNXU/w7WTg5slV4hg+HeRULkPxOtrULP1G8w==</SignatureValue>
+                    <KeyInfo>
+                        <X509Data>
+                            <X509Certificate>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</X509Certificate>
+                        </X509Data>
+                    </KeyInfo>
+                </Signature>
+            </Nfse>
+        </CompNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="NFSE-MOSSORO-0269484-191218-111409-000000347-51006316">
+                    <Numero>000000347</Numero>
+                    <CodigoVerificacao>EUNP01389</CodigoVerificacao>
+                    <DataEmissao>2019-11-30T09:13:36Z</DataEmissao>
+                    <NaturezaOperacao>1</NaturezaOperacao>
+                    <RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>1</IncentivadorCultural>
+                    <Competencia>201911Z</Competencia>
+                    <s01:Servico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <Valores>
+                            <ValorServicos>286.18</ValorServicos>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>7.00</ValorIss>
+                            <ValorIssRetido>0.00</ValorIssRetido>
+                            <BaseCalculo>286.18</BaseCalculo>
+                            <Aliquota>0.0244</Aliquota>
+                            <ValorLiquidoNfse>0.00</ValorLiquidoNfse>
+                        </Valores>
+                        <ItemListaServico>4.12</ItemListaServico>
+                        <CodigoCnae>8630002</CodigoCnae>
+                        <Discriminacao>SERVIÇOS ODONTOLOGICOS</Discriminacao>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                    </s01:Servico>
+                    <ValorCredito>0.00</ValorCredito>
+                    <PrestadorServico>
+                        <s01:IdentificacaoPrestador
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Cnpj>08242327000181</Cnpj>
+                            <InscricaoMunicipal>0269484</InscricaoMunicipal>
+                        </s01:IdentificacaoPrestador>
+                        <RazaoSocial>REABILITY ODONTOLOGIA E SAUDE EIRELI</RazaoSocial>
+                        <NomeFantasia>REABILIT ODONTOLOGIA</NomeFantasia>
+                        <s01:Endereco
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Endereco>RUA DOUTOR JOAO MARCELINO</Endereco>
+                            <Numero>710</Numero>
+                            <Bairro>NOVA BETANIA</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59612012</Cep>
+                        </s01:Endereco>
+                        <s01:Contato
+                            xmlns=""
+                            xmlns:s01="http://www.tinus.com.br">
+                            <Telefone>84306580988826299</Telefone>
+                            <Email>contato.amplacont@gmail.com</Email>
+                        </s01:Contato>
+                    </PrestadorServico>
+                    <s01:TomadorServico
+                        xmlns=""
+                        xmlns:s01="http://www.tinus.com.br">
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+                                <Cpf>08251301408</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>FREDIANO DA SILVA JALES</RazaoSocial>
+                        <Endereco>
+                            <Endereco>RUA CROCATT DE SA</Endereco>
+                            <Numero>560</Numero>
+                            <Bairro>BOM JARDIM</Bairro>
+                            <CodigoMunicipio>2408003</CodigoMunicipio>
+                            <Uf>RN</Uf>
+                            <Cep>59618-220</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>84914593</Telefone>
+                            <Email>frediiano@unp.edu.br</Email>
+                        </Contato>
+                    </s01:TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>2408003</CodigoMunicipio>
+                        <Uf>RN</Uf>
+                    </OrgaoGerador>
+                </InfNfse>
+                <Signature
+                    xmlns="http://www.w3.org/2000/09/xmldsig#"
+                    xmlns:s01="http://www.w3.org/2000/09/xmldsig#" xsi:type="s01:Signature"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="Id-522EFACA-0E55-4410-B955-ADFA73188B54">
+                    <SignedInfo>
+                        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+                        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+                        <Reference URI="#NFSE-MOSSORO-0269484-191218-111409-000000347-51006316">
+                            <Transforms>
+                                <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                                <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                            </Transforms>
+                            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+                            <DigestValue>uQ9XWe502895ucg/osjpqN2IlgY+Cnvj8gJBLrtYUoM=</DigestValue>
+                        </Reference>
+                    </SignedInfo>
+                    <SignatureValue>TLTntZVGfggJPE84pSMy1xivhjCOa0wf0tOmUOQFsz8/bsh+8qUQmlMMUe+osqPPtkWY5ZYojP950KYIO9AYqr1Fvmk3y4QkhbLRYfQsR0pMWgSdLuSf3Gf88qxzHQjgsB4CX3LuP3PcCg5E4w7dvCOUAHOGsEX+9BKg+Q10epCe9YqLZLIYvKcNuS1ecEXx3tH46fUgdhqNtVvSWnliReAB9rgiHGqw+thwdUhl9z8YFmke6D1DZxg6GN0/ik+EYCNaVTBo7tRwLkCudmgt3TQ5sYwxPdP+MQE8XCWdChJdC0TWL+WFSXZ8ahsCZM7OLoGZ9VaxZPDXZvqOTbgiyA==</SignatureValue>
+                    <KeyInfo>
+                        <X509Data>
+                            <X509Certificate>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</X509Certificate>
+                        </X509Data>
+                    </KeyInfo>
+                </Signature>
+            </Nfse>
+        </CompNfse>
+    </ListaNfse>
+</ConsultarNfseResposta>

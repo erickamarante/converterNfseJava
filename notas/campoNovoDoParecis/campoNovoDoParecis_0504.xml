@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse versao="2.02">
+			<InfNfse Id="NFSE_201900000000868">
+				<Numero>201900000000868</Numero>
+				<CodigoVerificacao>N2CGRPGII</CodigoVerificacao>
+				<DataEmissao>2019-03-26T16:55:09</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes> / VALOR APROXIMADO DOS TRIBUTOS R$           50.40( 16.50%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO. / ESTA NFSE FOI EMITDA VIA WEBSERVICES.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>305.44</BaseCalculo>
+					<Aliquota>5.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>305.44</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>07413483000103</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>3415</InscricaoMunicipal>
+						<InscricaoEstadual>13.303.927-7</InscricaoEstadual>
+					</IdentificacaoPrestador>
+					<RazaoSocial>INVIOLAVEL CAMPO NOVO MONITORAMENTO DE ALARMES LTDA - ME</RazaoSocial>
+					<NomeFantasia>INVIOLAVEL MONITORAMENTO</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA: PORTO VELHO</Endereco>
+						<Numero>290-NE</Numero>
+						
+						<Bairro>CENTRO</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78.360-0</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533826600</Telefone>
+						<Email>CAMPONOVO@INVIOLAVEL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Rps>
+							<IdentificacaoRps>
+								<Numero>27085</Numero>
+								<Serie>RPS</Serie>
+								<Tipo>1</Tipo>
+							</IdentificacaoRps>
+							<DataEmissao>2019-03-26</DataEmissao>
+							<Status>1</Status>
+							
+							
+						</Rps>
+						<Competencia>2019-03-26</Competencia>
+						<OutrasInformacoes/>
+						<Servico>
+							<Valores>
+								<ValorServicos>305.44</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>5.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>1102</ItemListaServico>
+							<CodigoCnae>8020001</CodigoCnae>
+							<CodigoTributacaoMunicipio>8020001</CodigoTributacaoMunicipio>
+							<Discriminacao>MANUTENCAO SISTEMA DE ALARME REF MARCO/2019</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>07413483000103</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>3415</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cnpj>17426489000160</Cnpj>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>GILIOLI CLINICA ODONTOLOGICA LTDA - ME</RazaoSocial>
+							<Endereco>
+								<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+								<Numero>476NE</Numero>
+								
+								<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360000</Cep>
+							</Endereco>
+							<Contato>
+								<Telefone>6533821407</Telefone>
+								<Email>clinica_ortomed@hotmail.com;ortomedclinica.cnp@gmail.com</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>1</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+

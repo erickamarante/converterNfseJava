@@ -1,0 +1,2616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000032">
+				<Numero>201900000000032</Numero>
+				<CodigoVerificacao>E2849GK52</CodigoVerificacao>
+				<DataEmissao>2019-02-01T14:59:08</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes> / VALOR APROXIMADO DOS TRIBUTOS R$           73.49( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>450.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>450.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-01</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>450.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao/>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>03543598945</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>LUCIANE FERRES SCHIMITH</RazaoSocial>
+							<Endereco>
+								<Endereco>LIONS INTERNACIONAL</Endereco>
+								<Numero>721NE</Numero>
+								<Complemento>LIONS INTERNACIONAL, No 721NE, ALVORADA, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>ALVORADA</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360000</Cep>
+							</Endereco>
+							<Contato>
+								<Telefone>33822201</Telefone>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000033">
+				<Numero>201900000000033</Numero>
+				<CodigoVerificacao>T2HC4RE5E</CodigoVerificacao>
+				<DataEmissao>2019-02-01T17:41:36</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>Tratamento Odontologico / VALOR APROXIMADO DOS TRIBUTOS R$          155.95( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>955.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>955.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-01</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>955.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao/>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>16554188827</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>VIVIANE DUARTE DOS SANTOS</RazaoSocial>
+							<Endereco>
+								<Endereco>RUA RODOLFO ULRICH</Endereco>
+								<Numero>1700-NE</Numero>
+								<Complemento>RUA RODOLFO ULRICH, No 1700-NE, NOSSA SENHORA APARECIDA, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78.360-000</Cep>
+							</Endereco>
+							<Contato>
+								<Telefone>65 84565852</Telefone>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000034">
+				<Numero>201900000000034</Numero>
+				<CodigoVerificacao>E2FJ82MIO</CodigoVerificacao>
+				<DataEmissao>2019-02-04T14:27:23</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>Tratamento Odontologico, Dr Lilco Kleber Kellner Filho / VALOR APROXIMADO DOS TRIBUTOS R$           55.25( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>338.34</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>338.34</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-04</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>338.34</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao/>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>47511605915</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>WALDIR PAGLIARINI</RazaoSocial>
+							<Endereco>
+								<Endereco>AV. PORTO VELHO</Endereco>
+								<Numero>1062</Numero>
+								<Complemento>AV. PORTO VELHO, No 1062, NOSSA SENHORA APARECIDA, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360000</Cep>
+							</Endereco>
+							<Contato>
+								<Telefone>(65) 9 9906-6428</Telefone>
+								<Email>naiza.pagliarini@hotmail.com</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000035">
+				<Numero>201900000000035</Numero>
+				<CodigoVerificacao>PDMKKO6MU</CodigoVerificacao>
+				<DataEmissao>2019-02-04T15:47:32</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>Tratamento Odontologico / VALOR APROXIMADO DOS TRIBUTOS R$          160.03( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>980.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>980.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-04</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>980.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao/>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>00541099906</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>SIMONE APARECIDA DE LIZ</RazaoSocial>
+							<Endereco>
+								<Endereco>PEQUI</Endereco>
+								<Numero>136</Numero>
+								<Complemento>PEQUI, No 136, ALVORADA, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>ALVORADA</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360-000</Cep>
+							</Endereco>
+							<Contato>
+								<Telefone>33821771</Telefone>
+								<Email>VENDAS@TRRKRUPINSKI.COM.BR</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000036">
+				<Numero>201900000000036</Numero>
+				<CodigoVerificacao>TI0TPTLQ7</CodigoVerificacao>
+				<DataEmissao>2019-02-05T18:21:00</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>TRATAMENTO ODONTOLoGICO / VALOR APROXIMADO DOS TRIBUTOS R$           19.60( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>120.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>120.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-05</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>120.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao>TRATAMENTO ODONTOLoGICO</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>94861994187</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>ELAINE LIVIA SOUZA</RazaoSocial>
+							<Endereco>
+								<Endereco>SANTA CATARINA</Endereco>
+								<Numero>1330</Numero>
+								<Complemento>SANTA CATARINA, No 1330, CENTRO, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>CENTRO</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360000</Cep>
+							</Endereco>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000037">
+				<Numero>201900000000037</Numero>
+				<CodigoVerificacao>VCSLDF99Q</CodigoVerificacao>
+				<DataEmissao>2019-02-07T11:15:53</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>Tratamento Odontologico, Dra Fernanda Enzweiler / VALOR APROXIMADO DOS TRIBUTOS R$          163.30( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>1000.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>1000.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-07</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>1000.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao/>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>98058940100</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>JOELMA DA SILVA SOARES</RazaoSocial>
+							<Endereco>
+								<Endereco>RUA AMBURANA</Endereco>
+								<Numero>640</Numero>
+								<Complemento>RUA AMBURANA, No 640, JARDIM ALVORADA, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>JARDIM ALVORADA</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360000</Cep>
+							</Endereco>
+							<Contato>
+								<Telefone>65999664790</Telefone>
+								<Email>posto77@everesttransportes.com.br</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000038">
+				<Numero>201900000000038</Numero>
+				<CodigoVerificacao>TVQ8UQJ0H</CodigoVerificacao>
+				<DataEmissao>2019-02-08T16:42:11</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>TRATAMENTO ODONTOLoGICO / VALOR APROXIMADO DOS TRIBUTOS R$           48.99( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>300.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>300.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-08</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>300.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao>TRATAMENTO ODONTOLoGICO</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>27219796803</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>JORGE LUIS CARNEIRO</RazaoSocial>
+							<Endereco>
+								<Endereco>RUA SAO PAULO NO 960</Endereco>
+								<Numero/>
+								<Complemento>RUA SAO PAULO NO 960, No , CENTRO, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>CENTRO</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360000</Cep>
+							</Endereco>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000039">
+				<Numero>201900000000039</Numero>
+				<CodigoVerificacao>MRV11BDGQ</CodigoVerificacao>
+				<DataEmissao>2019-02-08T18:22:32</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>Tratamento Odontologico / VALOR APROXIMADO DOS TRIBUTOS R$          222.09( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>1360.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>1360.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-08</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>1360.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao/>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>74907964900</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>ANDREA CRISTINA BRANCO</RazaoSocial>
+							<Endereco>
+								<Endereco>RUA SAO PAULO</Endereco>
+								<Numero>475-NE</Numero>
+								<Complemento>RUA SAO PAULO, No 475-NE, CENTRO, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>CENTRO</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78.360-000</Cep>
+							</Endereco>
+							<Contato>
+								<Telefone>65999879090</Telefone>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000040">
+				<Numero>201900000000040</Numero>
+				<CodigoVerificacao>L27O140NE</CodigoVerificacao>
+				<DataEmissao>2019-02-13T16:20:20</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>Tratamento Odontologico / VALOR APROXIMADO DOS TRIBUTOS R$           40.83( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>250.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>250.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-13</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>250.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao/>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>33520593491</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>MARCOS ANTONIO ARRUDA SALSA</RazaoSocial>
+							<Endereco>
+								<Endereco>RODOLFO ULRICH</Endereco>
+								<Numero/>
+								<Complemento>RODOLFO ULRICH, No , NOSSA SENHORA APARECIDA, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78.360-000</Cep>
+							</Endereco>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000041">
+				<Numero>201900000000041</Numero>
+				<CodigoVerificacao>VLDA1HK7R</CodigoVerificacao>
+				<DataEmissao>2019-02-13T16:33:58</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>TRATAMENTO ODONTOLoGICO / VALOR APROXIMADO DOS TRIBUTOS R$           94.71( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>580.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>580.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-13</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>580.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao>TRATAMENTO ODONTOLoGICO</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>00348796170</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>ADRIANO PAZ</RazaoSocial>
+							<Endereco>
+								<Endereco>AVENIDA BRASIL</Endereco>
+								<Numero>446</Numero>
+								<Complemento>AVENIDA BRASIL, No 446, CENTRO, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>CENTRO</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360-000</Cep>
+							</Endereco>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000042">
+				<Numero>201900000000042</Numero>
+				<CodigoVerificacao>3U66I210Q</CodigoVerificacao>
+				<DataEmissao>2019-02-13T17:44:11</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>Tratamento Odontologico / VALOR APROXIMADO DOS TRIBUTOS R$          379.61( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>2324.63</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>2324.63</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-13</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>2324.63</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao/>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>03411751967</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>MAJORI DAL MOLIN</RazaoSocial>
+							<Endereco>
+								<Endereco>ROD.MT 170,KM100</Endereco>
+								<Numero/>
+								<Complemento>ROD.MT 170,KM100, No , ZONA RURAL, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>ZONA RURAL</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360000</Cep>
+							</Endereco>
+							<Contato>
+								<Telefone>6533821134</Telefone>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000043">
+				<Numero>201900000000043</Numero>
+				<CodigoVerificacao>67DDSMPO0</CodigoVerificacao>
+				<DataEmissao>2019-02-14T15:49:07</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>TRATAMENTO ODONTOLoGICO / VALOR APROXIMADO DOS TRIBUTOS R$           29.39( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>180.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>180.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-14</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>180.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao>TRATAMENTO ODONTOLoGICO</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>83124250125</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>ARMANDO JUNIOR BROLIO</RazaoSocial>
+							<Endereco>
+								<Endereco>RODOLFO ULRICH</Endereco>
+								<Numero/>
+								<Complemento>RODOLFO ULRICH, No , NOSSA SENHORA APARECIDA, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78.360-000</Cep>
+							</Endereco>
+							<Contato>
+								<Email>armando@grupobrolio.com.br</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000044">
+				<Numero>201900000000044</Numero>
+				<CodigoVerificacao>T04H2C0AP</CodigoVerificacao>
+				<DataEmissao>2019-02-14T16:31:32</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>TRATAMENTO ODONTOLoGICO / VALOR APROXIMADO DOS TRIBUTOS R$          450.71( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>2760.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>2760.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-14</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>2760.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao>TRATAMENTO ODONTOLoGICO</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>00265508142</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>ANDRESSA PAULA DIAS</RazaoSocial>
+							<Endereco>
+								<Endereco>RUA RODOLFO ULRICH</Endereco>
+								<Numero>1760</Numero>
+								<Complemento>RUA RODOLFO ULRICH , No 1760, NOSSA SENHORA APARECIDA , CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360000</Cep>
+							</Endereco>
+							<Contato>
+								<Email>ortomedclinica.cnp@gmail.com</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000045">
+				<Numero>201900000000045</Numero>
+				<CodigoVerificacao>5FH2J9AV2</CodigoVerificacao>
+				<DataEmissao>2019-02-14T17:07:40</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>TRATAMENTO ODONTOLoGICO / VALOR APROXIMADO DOS TRIBUTOS R$           58.79( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>360.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>360.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-14</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>360.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao>TRATAMENTO ODONTOLoGICO</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>86857371172</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>SANDRA REGINA SIQUEIRA TAMIOZZO</RazaoSocial>
+							<Endereco>
+								<Endereco>AV. MATO GROSSO</Endereco>
+								<Numero>85</Numero>
+								<Complemento>AV. MATO GROSSO, No 85, CENTRO, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>CENTRO</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360-000</Cep>
+							</Endereco>
+							<Contato>
+								<Email>sandra_tamiozzo@hotmail.com</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000046">
+				<Numero>201900000000046</Numero>
+				<CodigoVerificacao>A3LV7ECQD</CodigoVerificacao>
+				<DataEmissao>2019-02-14T18:52:17</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>TRATAMENTO ODONTOLoGICO DAVI LUCAS / VALOR APROXIMADO DOS TRIBUTOS R$           48.99( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>300.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>300.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-14</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>300.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao>TRATAMENTO ODONTOLoGICO</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>88305457168</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal>5379</InscricaoMunicipal>
+							</IdentificacaoTomador>
+							<RazaoSocial>ADRIANE MARIA VARNIER</RazaoSocial>
+							<Endereco>
+								<Endereco>TOCANTINS</Endereco>
+								<Numero>55</Numero>
+								<Complemento>TOCANTINS, No 55, CENTRO, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>CENTRO</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78.360-000</Cep>
+							</Endereco>
+							<Contato>
+								<Email>ADRIANEVARNIER@HOTMAIL.COM</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000047">
+				<Numero>201900000000047</Numero>
+				<CodigoVerificacao>ON2I7B8NE</CodigoVerificacao>
+				<DataEmissao>2019-02-14T18:55:57</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>TRATAMENTO ODONTOLoGICO / VALOR APROXIMADO DOS TRIBUTOS R$          323.33( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>1980.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>1980.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-14</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>1980.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao>TRATAMENTO ODONTOLoGICO</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>88305457168</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal>5379</InscricaoMunicipal>
+							</IdentificacaoTomador>
+							<RazaoSocial>ADRIANE MARIA VARNIER</RazaoSocial>
+							<Endereco>
+								<Endereco>TOCANTINS</Endereco>
+								<Numero>55</Numero>
+								<Complemento>TOCANTINS, No 55, CENTRO, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>CENTRO</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78.360-000</Cep>
+							</Endereco>
+							<Contato>
+								<Email>ADRIANEVARNIER@HOTMAIL.COM</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000048">
+				<Numero>201900000000048</Numero>
+				<CodigoVerificacao>IS9BISAAS</CodigoVerificacao>
+				<DataEmissao>2019-02-19T16:13:21</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>TRATAMENTO ODONTOLoGICO / VALOR APROXIMADO DOS TRIBUTOS R$          125.74( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>770.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>770.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-19</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>770.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao>TRATAMENTO ODONTOLoGICO</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>71061061191</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>GENIVALDO DAVID DE SOUZA SCHLICK</RazaoSocial>
+							<Endereco>
+								<Endereco>RUA CAMBARA</Endereco>
+								<Numero>350-NE</Numero>
+								<Complemento>RUA CAMBARA, No 350-NE, ALVORADA, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>ALVORADA</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360-000</Cep>
+							</Endereco>
+							<Contato>
+								<Telefone>65999779127</Telefone>
+								<Email>genivaldo.schlick@gmail.com</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000049">
+				<Numero>201900000000049</Numero>
+				<CodigoVerificacao>MLE9TPH41</CodigoVerificacao>
+				<DataEmissao>2019-02-20T18:59:26</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>TRATAMENTO ODONTOLoGICO / VALOR APROXIMADO DOS TRIBUTOS R$           62.05( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>380.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>380.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-20</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>380.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao>TRATAMENTO ODONTOLoGICO</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>99245990125</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>MARTA SILVA DE QUEIROZ LEITE</RazaoSocial>
+							<Endereco>
+								<Endereco>AVENIDA PORTO VELHO</Endereco>
+								<Numero>195-NE</Numero>
+								<Complemento>AVENIDA PORTO VELHO, No 195-NE, CENTRO, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>CENTRO</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78.360-000</Cep>
+							</Endereco>
+							<Contato>
+								<Telefone>65981141135</Telefone>
+								<Email>MARTALEITE@LIVE.COM</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000050">
+				<Numero>201900000000050</Numero>
+				<CodigoVerificacao>OANQ99TP5</CodigoVerificacao>
+				<DataEmissao>2019-02-21T17:41:25</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>Tratamento Odontologico / VALOR APROXIMADO DOS TRIBUTOS R$           39.19( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>240.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>240.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>CONTABILIDADEPARECIS@HOTMAIL.COM</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-21</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>240.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao/>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>00759906106</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>DOMINGOS JOSE DIAS DE SOUZA</RazaoSocial>
+							<Endereco>
+								<Endereco>DAS GARCAS</Endereco>
+								<Numero/>
+								<Complemento>DAS GARCAS, No , JARDIM DAS PALMEIRAS, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>JARDIM DAS PALMEIRAS</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360000</Cep>
+							</Endereco>
+							<Contato>
+								<Email>angelvieira_@hotmail.com</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000051">
+				<Numero>201900000000051</Numero>
+				<CodigoVerificacao>5CDCTA6O1</CodigoVerificacao>
+				<DataEmissao>2019-02-25T09:55:08</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>Tratamento Odontologico, Dra Fernanda Enzweiler / VALOR APROXIMADO DOS TRIBUTOS R$           87.79( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>537.60</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>537.60</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>fiscal@constanzo.com.br</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-25</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>537.60</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao/>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>00416365892</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>JOSE FRANCISCO DA SILVA</RazaoSocial>
+							<Endereco>
+								<Endereco>RUA GOIANA</Endereco>
+								<Numero>136</Numero>
+								<Complemento>RUA GOIANA , No 136, CENTRO, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>CENTRO</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360-000</Cep>
+							</Endereco>
+							<Contato>
+								<Telefone>65999653193</Telefone>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000052">
+				<Numero>201900000000052</Numero>
+				<CodigoVerificacao>8TA7RS7A9</CodigoVerificacao>
+				<DataEmissao>2019-02-26T18:39:50</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>Tratamento Odontologico / VALOR APROXIMADO DOS TRIBUTOS R$           96.67( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>592.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>592.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>fiscal@constanzo.com.br</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-26</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>592.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao/>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>04706754119</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>DIEIMES HENRIQUE ZALESKI</RazaoSocial>
+							<Endereco>
+								<Endereco>RUA RODOLFO ULRICH</Endereco>
+								<Numero>1200</Numero>
+								<Complemento>RUA RODOLFO ULRICH , No 1200, NOSSA SENHORA APARECIDA , CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360000</Cep>
+							</Endereco>
+							<Contato>
+								<Telefone>(65) 99901-7759</Telefone>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000053">
+				<Numero>201900000000053</Numero>
+				<CodigoVerificacao>JM250IRP2</CodigoVerificacao>
+				<DataEmissao>2019-02-27T17:23:24</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>TRATAMENTO ODONTOLoGICO / VALOR APROXIMADO DOS TRIBUTOS R$           45.72( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>280.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>280.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>fiscal@constanzo.com.br</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-27</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>280.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao>TRATAMENTO ODONTOLoGICO</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>45373272191</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal>3936</InscricaoMunicipal>
+							</IdentificacaoTomador>
+							<RazaoSocial>MARLI ALZIRA MINOZZO</RazaoSocial>
+							<Endereco>
+								<Endereco>FAZENDA ALVORADA</Endereco>
+								<Numero>SN</Numero>
+								<Complemento>FAZENDA ALVORADA, No SN, ZONA RURAL, CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro>ZONA RURAL</Bairro>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>78360-000</Cep>
+							</Endereco>
+							<Contato>
+								<Email>marlicnp@hotmail.com</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsResposta xmlns="http://www.abrasf.org.br/nfse.xsd">
+	<CompNfse>
+		<Nfse>
+			<InfNfse Id="NFSE_201900000000054">
+				<Numero>201900000000054</Numero>
+				<CodigoVerificacao>55UVKFVB7</CodigoVerificacao>
+				<DataEmissao>2019-02-28T10:33:05</DataEmissao>
+				<NfseSubstituida>0</NfseSubstituida>
+				<OutrasInformacoes>TRATAMENTO ODONTOLoGICO / VALOR APROXIMADO DOS TRIBUTOS R$           11.43( 16.33%) FONTE: IBPT, CONFORME LEI 12.741/2012.  /  CONTRIBUINTE OPTANTE DO SIMPLES NACIONAL  / ESTA NOTA PODE SER CANCELADA EM 2 DIAS APoS A GERAcaO.</OutrasInformacoes>
+				<ValoresNfse>
+					<BaseCalculo>70.00</BaseCalculo>
+					<Aliquota>0.00</Aliquota>
+					<ValorIss>0.00</ValorIss>
+					<ValorLiquidoNfse>70.00</ValorLiquidoNfse>
+				</ValoresNfse>
+				<ValorCredito>0.00</ValorCredito>
+				<PrestadorServico>
+					<IdentificacaoPrestador>
+						<CpfCnpj>
+							<Cnpj>17426489000160</Cnpj>
+						</CpfCnpj>
+						<InscricaoMunicipal>1549</InscricaoMunicipal>
+					</IdentificacaoPrestador>
+					<RazaoSocial>ORTOMED CLINICA ODONTOLOGICA EIRELI</RazaoSocial>
+					<NomeFantasia>ORTOMED</NomeFantasia>
+					<Endereco>
+						<Endereco>RUA ROBERTO CARLOS BROLIO</Endereco>
+						<Numero>476-NE</Numero>
+						<Complemento/>
+						<Bairro>NOSSA SENHORA APARECIDA</Bairro>
+						<CodigoMunicipio>5102637</CodigoMunicipio>
+						<Uf>MT</Uf>
+						<CodigoPais>1058</CodigoPais>
+						<Cep>78360000</Cep>
+					</Endereco>
+					<Contato>
+						<Telefone>6533821407</Telefone>
+						<Email>fiscal@constanzo.com.br</Email>
+					</Contato>
+				</PrestadorServico>
+				<OrgaoGerador>
+					<CodigoMunicipio>5102637</CodigoMunicipio>
+					<Uf>MT</Uf>
+				</OrgaoGerador>
+				<DeclaracaoPrestacaoServico>
+					<InfDeclaracaoPrestacaoServico>
+						<Competencia>2019-02-28</Competencia>
+						<Servico>
+							<Valores>
+								<ValorServicos>70.00</ValorServicos>
+								<ValorDeducoes>0.00</ValorDeducoes>
+								<ValorPis>0.00</ValorPis>
+								<ValorCofins>0.00</ValorCofins>
+								<ValorInss>0.00</ValorInss>
+								<ValorIr>0.00</ValorIr>
+								<ValorCsll>0.00</ValorCsll>
+								<OutrasRetencoes>0.00</OutrasRetencoes>
+								<ValorIss>0.00</ValorIss>
+								<Aliquota>0.00</Aliquota>
+								<DescontoIncondicionado>0.00</DescontoIncondicionado>
+								<DescontoCondicionado>0.00</DescontoCondicionado>
+							</Valores>
+							<IssRetido>2</IssRetido>
+							<ResponsavelRetencao>1</ResponsavelRetencao>
+							<ItemListaServico>0412</ItemListaServico>
+							<CodigoCnae>8630504</CodigoCnae>
+							<CodigoTributacaoMunicipio>0412</CodigoTributacaoMunicipio>
+							<Discriminacao>TRATAMENTO ODONTOLoGICO</Discriminacao>
+							<CodigoMunicipio>5102637</CodigoMunicipio>
+							<CodigoPais>1058</CodigoPais>
+							<ExigibilidadeISS>1</ExigibilidadeISS>
+							<MunicipioIncidencia>5102637</MunicipioIncidencia>
+						</Servico>
+						<Prestador>
+							<CpfCnpj>
+								<Cnpj>17426489000160</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>1549</InscricaoMunicipal>
+						</Prestador>
+						<Tomador>
+							<IdentificacaoTomador>
+								<CpfCnpj>
+									<Cpf>06477862140</Cpf>
+								</CpfCnpj>
+								<InscricaoMunicipal/>
+							</IdentificacaoTomador>
+							<RazaoSocial>JULIA MATTE LENEIR</RazaoSocial>
+							<Endereco>
+								<Endereco>RUA CEREJEIRA</Endereco>
+								<Numero>98</Numero>
+								<Complemento>RUA CEREJEIRA , No 98, , CAMPO NOVO DO PARECIS - MT</Complemento>
+								<Bairro/>
+								<CodigoMunicipio>5102637</CodigoMunicipio>
+								<Uf>MT</Uf>
+								<CodigoPais>1058</CodigoPais>
+								<Cep>7836000000</Cep>
+							</Endereco>
+							<Contato>
+								<Email>lumatte@gmail.com</Email>
+							</Contato>
+						</Tomador>
+						<RegimeEspecialTributacao>*</RegimeEspecialTributacao>
+						<OptanteSimplesNacional>1</OptanteSimplesNacional>
+						<IncentivoFiscal>2</IncentivoFiscal>
+					</InfDeclaracaoPrestacaoServico>
+				</DeclaracaoPrestacaoServico>
+				<tsStatusRps>2</tsStatusRps>
+				<tsStatusNfse>1</tsStatusNfse>
+			</InfNfse>
+		</Nfse>
+	</CompNfse>
+</ConsultarNfseRpsResposta>
+
+

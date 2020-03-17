@@ -1,0 +1,64 @@
+<NFe>
+  <Prefeitura>Bauru</Prefeitura>
+  <InscricaoPrestador>577280</InscricaoPrestador>
+  <IEPrestador></IEPrestador>
+  <CPFCNPJPrestador>
+    <CNPJ>31002663000179</CNPJ>
+  </CPFCNPJPrestador>
+  <ChaveNFe>
+    <NumeroNFe>1038</NumeroNFe>
+    <SerieNFe>1</SerieNFe>
+    <CodigoVerificacao>7ADD59FC2C95DADE0AA0863838A8DCD0</CodigoVerificacao>
+    <DataEmissaoNFe>2020-01-10</DataEmissaoNFe>
+  </ChaveNFe>
+  <RazaoSocialPrestador>F D M DOS SANTOS LOPES E AVELAR</RazaoSocialPrestador>
+  <EnderecoPrestador>
+    <Logradouro>RUA ALFREDO FONTAO</Logradouro>
+    <NumeroEndereco>2-73</NumeroEndereco>
+    <ComplementoEndereco></ComplementoEndereco>
+    <Bairro>JD. PAULISTA</Bairro>
+    <Cidade>BAURU</Cidade>
+    <UF>SP</UF>
+    <CEP>17017240</CEP>
+  </EnderecoPrestador>
+  <TelefonePrestador>1438781212</TelefonePrestador>
+  <EmailPrestador>ilton@esolucao.net</EmailPrestador>
+  <StatusNFe>Ativa</StatusNFe>
+  <TributacaoNFe>Tributada no Prestador</TributacaoNFe>
+  <OpcaoSimples>NÃO</OpcaoSimples>
+  <ValorServicos>1.000,00</ValorServicos>
+  <ValorBase>1.000,00</ValorBase>
+  <CodigoServico>412</CodigoServico>
+  <AliquotaServicos>2,00</AliquotaServicos>
+  <ValorINSS>0,00</ValorINSS>
+  <ValorIR>0,00</ValorIR>
+  <ValorPIS>0,00</ValorPIS>
+  <ValorCOFINS>0,00</ValorCOFINS>
+  <ValorCSLL>0,00</ValorCSLL>
+  <ValorISS>20,00</ValorISS>
+  <ValorISSFora></ValorISSFora>
+  <ISSRetido>NÃO</ISSRetido>
+  <InscricaoTomador></InscricaoTomador>
+  <CPFCNPJTomador>
+    <CNPJ>28826190810</CNPJ>
+  </CPFCNPJTomador>
+  <IETomador></IETomador>
+  <RazaoSocialTomador>ANDREA CRISTINA PARRELA NEGRAO</RazaoSocialTomador>
+  <EnderecoTomador>
+    <Logradouro>2 AV FELICISSIMO ANTONIO PEREIRA</Logradouro>
+    <NumeroEndereco>15-008</NumeroEndereco>
+    <ComplementoEndereco></ComplementoEndereco>
+    <Bairro>JARDIM SOLANGE</Bairro>
+    <Cidade>BAURU</Cidade>
+    <UF>SP</UF>
+    <CEP>17054001</CEP>
+  </EnderecoTomador>
+  <LocalServico>
+    <LocalServicoEstado></LocalServicoEstado>
+    <LocalServicoCidade></LocalServicoCidade>
+  </LocalServico>
+  <TelefoneTomador></TelefoneTomador>
+  <EmailTomador></EmailTomador>
+  <Discriminacao>SERVIÇOS ODONTOLÓGICOS</Discriminacao>
+  <ServicoExportacao>NÃO</ServicoExportacao>
+</NFe>

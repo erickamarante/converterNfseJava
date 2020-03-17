@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.prefeitura.sp.gov.br/nfe" xmlns:s1="http://www.prefeitura.sp.gov.br/nfe/tipos" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" targetNamespace="http://www.prefeitura.sp.gov.br/nfe" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.prefeitura.sp.gov.br/nfe">
+      <s:import namespace="http://www.prefeitura.sp.gov.br/nfe/tipos" />
+      <s:element name="TesteEnvioLoteRPSRequest">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="versaoSchema" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="MensagemXML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TesteEnvioLoteRPSResponseAsync">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RetornoXML">
+              <s:complexType>
+                <s:sequence>
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="Cabecalho">
+                    <s:complexType>
+                      <s:sequence>
+                        <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="Sucesso" type="s:boolean" />
+                        <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="InformacoesLote" type="s1:tpInformacoesLoteAsync" />
+                      </s:sequence>
+                      <s:attribute name="Versao" type="s:long" use="required" />
+                    </s:complexType>
+                  </s:element>
+                  <s:element minOccurs="0" maxOccurs="unbounded" form="unqualified" name="Erro" type="s1:tpEventoAsync" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EnvioLoteRPSRequest">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="versaoSchema" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="MensagemXML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EnvioLoteRPSResponseAsync">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RetornoXML">
+              <s:complexType>
+                <s:sequence>
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="Cabecalho">
+                    <s:complexType>
+                      <s:sequence>
+                        <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="Sucesso" type="s:boolean" />
+                        <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="InformacoesLote" type="s1:tpInformacoesLoteAsync" />
+                      </s:sequence>
+                      <s:attribute name="Versao" type="s:long" use="required" />
+                    </s:complexType>
+                  </s:element>
+                  <s:element minOccurs="0" maxOccurs="unbounded" form="unqualified" name="Erro" type="s1:tpEventoAsync" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EmissaoGuiaRequest">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="versaoSchema" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="MensagemXML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EmissaoGuiaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EmissaoGuiaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="Cabecalho">
+                    <s:complexType>
+                      <s:sequence>
+                        <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="Sucesso" type="s:boolean" />
+                        <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="InformacoesGuia" type="s1:tpInformacoesGuiaAsync" />
+                      </s:sequence>
+                      <s:attribute name="Versao" type="s:long" use="required" />
+                    </s:complexType>
+                  </s:element>
+                  <s:element minOccurs="0" maxOccurs="unbounded" form="unqualified" name="Erro" type="s1:tpEventoAsync" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaSituacaoLoteRequest">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="versaoSchema" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="MensagemXML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaSituacaoLoteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RetornoXML">
+              <s:complexType>
+                <s:sequence>
+                  <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="Sucesso" type="s:boolean" />
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="Situacao">
+                    <s:complexType>
+                      <s:simpleContent>
+                        <s:extension base="s:int">
+                          <s:attribute name="nome" type="s1:tpSituacaoLote" />
+                        </s:extension>
+                      </s:simpleContent>
+                    </s:complexType>
+                  </s:element>
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="NumeroLote" type="s:long" />
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DataRecebimento" type="s:dateTime" />
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DataProcessamento" type="s:dateTime" />
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="ResultadoOperacao" type="s:string" />
+                  <s:element minOccurs="0" maxOccurs="unbounded" form="unqualified" name="Erro" type="s1:tpEventoAsync" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaSituacaoGuiaRequest">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="versaoSchema" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="MensagemXML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaSituacaoGuiaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RetornoXML">
+              <s:complexType>
+                <s:sequence>
+                  <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="Sucesso" type="s:boolean" />
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="Situacao">
+                    <s:complexType>
+                      <s:simpleContent>
+                        <s:extension base="s:int">
+                          <s:attribute name="nome" type="s1:tpSituacaoGuia" />
+                        </s:extension>
+                      </s:simpleContent>
+                    </s:complexType>
+                  </s:element>
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="NumeroGuia" type="s:long" />
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DataRecebimento" type="s:dateTime" />
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DataProcessamento" type="s:dateTime" />
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="ResultadoOperacao" type="s:string" />
+                  <s:element minOccurs="0" maxOccurs="unbounded" form="unqualified" name="Erro" type="s1:tpEventoAsync" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaGuiaRequest">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="versaoSchema" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="MensagemXML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaGuiaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultaGuiaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="Cabecalho">
+                    <s:complexType>
+                      <s:sequence>
+                        <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="Sucesso" type="s:boolean" />
+                      </s:sequence>
+                      <s:attribute name="Versao" type="s:long" use="required" />
+                    </s:complexType>
+                  </s:element>
+                  <s:element minOccurs="0" maxOccurs="unbounded" form="unqualified" name="Guia" type="tns:tpGuia" />
+                  <s:element minOccurs="0" maxOccurs="unbounded" form="unqualified" name="Erro" type="s1:tpEventoAsync" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="tpGuia">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="InscricaoPrestador" type="s:long" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="NumeroGuia" type="s:long" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="Incidencia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="ValorTotal" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="ValorIss" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="ValorTotalPagamento" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="Status" type="tns:tpStatusGuia" />
+          <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="Situacao" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="Referencia" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DataEmissao" type="s:date" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DataVencimento" type="s:date" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DataPagamento" type="s:date" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DataQuitacao" type="s:date" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DataCancelamento" type="s:date" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="LinhaDigitavel" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="tpStatusGuia">
+        <s:simpleContent>
+          <s:extension base="s:int">
+            <s:attribute name="nome" type="s:string" />
+          </s:extension>
+        </s:simpleContent>
+      </s:complexType>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.prefeitura.sp.gov.br/nfe/tipos">
+      <s:complexType name="tpInformacoesLoteAsync">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="NumeroProtocolo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="DataRecebimento" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="tpEventoAsync">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="Codigo" type="s:short" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="Descricao" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="tpInformacoesGuiaAsync">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="NumeroProtocolo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="DataRecebimento" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:simpleType name="tpSituacaoLote">
+        <s:restriction base="s:string">
+          <s:enumeration value="enviado" />
+          <s:enumeration value="invalidado" />
+          <s:enumeration value="verificado" />
+          <s:enumeration value="processado" />
+        </s:restriction>
+      </s:simpleType>
+      <s:simpleType name="tpSituacaoGuia">
+        <s:restriction base="s:string">
+          <s:enumeration value="solicitada" />
+          <s:enumeration value="invalidada" />
+          <s:enumeration value="verificada" />
+          <s:enumeration value="processada" />
+        </s:restriction>
+      </s:simpleType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="TesteEnvioLoteRPSSoapIn">
+    <wsdl:part name="parameters" element="tns:TesteEnvioLoteRPSRequest" />
+  </wsdl:message>
+  <wsdl:message name="TesteEnvioLoteRPSSoapOut">
+    <wsdl:part name="parameters" element="tns:TesteEnvioLoteRPSResponseAsync" />
+  </wsdl:message>
+  <wsdl:message name="EnvioLoteRPSSoapIn">
+    <wsdl:part name="parameters" element="tns:EnvioLoteRPSRequest" />
+  </wsdl:message>
+  <wsdl:message name="EnvioLoteRPSSoapOut">
+    <wsdl:part name="parameters" element="tns:EnvioLoteRPSResponseAsync" />
+  </wsdl:message>
+  <wsdl:message name="EmissaoGuiaSoapIn">
+    <wsdl:part name="parameters" element="tns:EmissaoGuiaRequest" />
+  </wsdl:message>
+  <wsdl:message name="EmissaoGuiaSoapOut">
+    <wsdl:part name="parameters" element="tns:EmissaoGuiaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaSituacaoLoteSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaSituacaoLoteRequest" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaSituacaoLoteSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaSituacaoLoteResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaSituacaoGuiaSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaSituacaoGuiaRequest" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaSituacaoGuiaSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaSituacaoGuiaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaGuiaSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaGuiaRequest" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaGuiaSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaGuiaResponse" />
+  </wsdl:message>
+  <wsdl:portType name="LoteNFeAsyncSoap">
+    <wsdl:operation name="TesteEnvioLoteRpsAsync">
+      <wsdl:input name="TesteEnvioLoteRPS" message="tns:TesteEnvioLoteRPSSoapIn" />
+      <wsdl:output name="TesteEnvioLoteRPS" message="tns:TesteEnvioLoteRPSSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EnvioLoteRpsAsync">
+      <wsdl:input name="EnvioLoteRPS" message="tns:EnvioLoteRPSSoapIn" />
+      <wsdl:output name="EnvioLoteRPS" message="tns:EnvioLoteRPSSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EmissaoGuiaAsync">
+      <wsdl:input name="EmissaoGuia" message="tns:EmissaoGuiaSoapIn" />
+      <wsdl:output name="EmissaoGuia" message="tns:EmissaoGuiaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaSituacaoLote">
+      <wsdl:input message="tns:ConsultaSituacaoLoteSoapIn" />
+      <wsdl:output message="tns:ConsultaSituacaoLoteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaSituacaoGuia">
+      <wsdl:input message="tns:ConsultaSituacaoGuiaSoapIn" />
+      <wsdl:output message="tns:ConsultaSituacaoGuiaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaGuia">
+      <wsdl:input message="tns:ConsultaGuiaSoapIn" />
+      <wsdl:output message="tns:ConsultaGuiaSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="LoteNFeAsyncSoap" type="tns:LoteNFeAsyncSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TesteEnvioLoteRpsAsync">
+      <soap:operation soapAction="http://www.prefeitura.sp.gov.br/nfe/ws/testeEnvioLoteRPSAsync" style="document" />
+      <wsdl:input name="TesteEnvioLoteRPS">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="TesteEnvioLoteRPS">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EnvioLoteRpsAsync">
+      <soap:operation soapAction="http://www.prefeitura.sp.gov.br/nfe/ws/envioLoteRPSAsync" style="document" />
+      <wsdl:input name="EnvioLoteRPS">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="EnvioLoteRPS">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EmissaoGuiaAsync">
+      <soap:operation soapAction="http://www.prefeitura.sp.gov.br/nfe/ws/emissaoGuia" style="document" />
+      <wsdl:input name="EmissaoGuia">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="EmissaoGuia">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaSituacaoLote">
+      <soap:operation soapAction="http://www.prefeitura.sp.gov.br/nfe/ws/consultaSituacaoLote" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaSituacaoGuia">
+      <soap:operation soapAction="http://www.prefeitura.sp.gov.br/nfe/ws/consultaSituacaoGuia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaGuia">
+      <soap:operation soapAction="http://www.prefeitura.sp.gov.br/nfe/ws/consultaGuia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="LoteNFeAsyncSoap12" type="tns:LoteNFeAsyncSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TesteEnvioLoteRpsAsync">
+      <soap12:operation soapAction="http://www.prefeitura.sp.gov.br/nfe/ws/testeEnvioLoteRPSAsync" style="document" />
+      <wsdl:input name="TesteEnvioLoteRPS">
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="TesteEnvioLoteRPS">
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EnvioLoteRpsAsync">
+      <soap12:operation soapAction="http://www.prefeitura.sp.gov.br/nfe/ws/envioLoteRPSAsync" style="document" />
+      <wsdl:input name="EnvioLoteRPS">
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="EnvioLoteRPS">
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EmissaoGuiaAsync">
+      <soap12:operation soapAction="http://www.prefeitura.sp.gov.br/nfe/ws/emissaoGuia" style="document" />
+      <wsdl:input name="EmissaoGuia">
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="EmissaoGuia">
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaSituacaoLote">
+      <soap12:operation soapAction="http://www.prefeitura.sp.gov.br/nfe/ws/consultaSituacaoLote" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaSituacaoGuia">
+      <soap12:operation soapAction="http://www.prefeitura.sp.gov.br/nfe/ws/consultaSituacaoGuia" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaGuia">
+      <soap12:operation soapAction="http://www.prefeitura.sp.gov.br/nfe/ws/consultaGuia" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="LoteNFeAsync">
+    <wsdl:port name="LoteNFeAsyncSoap" binding="tns:LoteNFeAsyncSoap">
+      <soap:address location="https://nfews.prefeitura.sp.gov.br/lotenfeasync.asmx" />
+    </wsdl:port>
+    <wsdl:port name="LoteNFeAsyncSoap12" binding="tns:LoteNFeAsyncSoap12">
+      <soap12:address location="https://nfews.prefeitura.sp.gov.br/lotenfeasync.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

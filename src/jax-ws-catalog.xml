@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/D:/Documentos/Workana/conversorNFE/WS/lotenfe.wsdl" uri="wsdl/lotenfe.wsdl"/>
+    <system systemId="file:/D:/Documentos/Workana/conversorNFE/lotenfeasync.wsdl" uri="wsdl/lotenfeasync.wsdl"/>
+    <system systemId="file:/D:/Documentos/Workana/conversorNFE/WS/lotenfeasync.wsdl" uri="wsdl/lotenfeasync.wsdl"/>
+    <system systemId="file:/C:/Users/yurib/Documents/Workana/repos/integracaoConstanzo/WS/lotenfeasync.wsdl" uri="wsdl/lotenfeasync.wsdl"/>
+    <system systemId="file:/home/yuri/Documentos/Workana/repos/integracaoConstanzo/WS/lotenfe.wsdl" uri="wsdl/lotenfe.wsdl"/>
+    <system systemId="file:/home/yuri/Documentos/Workana/repos/integracaoConstanzo/WS/lotenfeasync.wsdl" uri="wsdl/lotenfeasync.wsdl"/>
+</catalog>

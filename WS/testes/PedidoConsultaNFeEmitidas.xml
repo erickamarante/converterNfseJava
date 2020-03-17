@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><p1:PedidoConsultaNFePeriodo xmlns:p1="http://www.prefeitura.sp.gov.br/nfe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Cabecalho Versao="1">
+    <CPFCNPJRemetente>
+      <CPF>45976334806</CPF>
+    </CPFCNPJRemetente>
+	<CPFCNPJ>
+	  <CNPJ>09230985000116</CNPJ>
+	</CPFCNPJ>
+	<Inscricao>37031554</Inscricao>
+	<dtInicio>2018-06-01</dtInicio>
+	<dtFim>2018-06-30</dtFim>
+	<NumeroPagina>1</NumeroPagina>
+  </Cabecalho>
+</p1:PedidoConsultaNFePeriodo>

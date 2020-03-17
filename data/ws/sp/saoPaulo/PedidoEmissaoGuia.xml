@@ -1,0 +1,9 @@
+<PedidoEmissaoGuiaAsync xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.prefeitura.sp.gov.br/nfe">
+  <CPFCNPJRemetente xmlns="">
+    <##CPFCNPJRemetente##/>
+  </CPFCNPJRemetente>
+  <InscricaoPrestador xmlns=""><##InscricaoPrestador##/></InscricaoPrestador>
+  <TipoEmissaoGuia xmlns=""><##TipoEmissaoGuia##/></TipoEmissaoGuia>
+  <Incidencia xmlns=""><##Incidencia##/></Incidencia>
+  <DataPagamento xmlns=""><##DataPagamento##/></DataPagamento>
+</PedidoEmissaoGuiaAsync>
